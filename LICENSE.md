@@ -107,9 +107,9 @@ http://free.cvmtv.site/StarSL1?token=live
 #EXTINF:-1 group-title="Ngoai hang Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
 http://free.cvmtv.site/StarSL2?token=live
 #EXTINF:-1,group-title="Ngoai hang Anh" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
-http://89.45.13.153:25461/play/live.phpamac=00:1A:79:4b:c9:aa&stream=1350557&extension=ts&play_token=OUA7OifHiI
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350557&extension=ts&play_token=OUA7OifHiI
 #EXTINF:-1,group-title="Ngoai hang Anh" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",1.Hub Premier 2 FHD
-http://89.45.13.153:25461/play/live.phpamac=00:1A:79:4b:c9:aa&stream=1350558&extension=ts&play_token=I7lqZQfynJ
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350558&extension=ts&play_token=I7lqZQfynJ
 #EXTINF:-1 4K group-title="Ngoai hang Anh", HK Now Sports (EPL)
 http://ua-iptv.com:8080/johneita/3477919074/302995
 #EXTINF:-1 group-title="Ngoai hang Anh",BEIN SPORTS PREMIUM 1 FHD
@@ -127,12 +127,12 @@ http://kleineinzeige.com:8080/Ciprian-Petrea1/EV7P2jur/38531
 #EXTINF:-1 group-title="Ngoai hang Anh",SuperSport Football Plus HD
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/402436
 #EXTINF:-1,group-title="Ngoai hang Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",3.Astro Supersports UHD
-http://apk.androidtrex.com:80/play/live.phpamac=00:1A:79:74:34:8e&stream=1016544&extension=ts&play_token=1EpPfEv4wz
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=1016544&extension=ts&play_token=1EpPfEv4wz
 #EXTINF:-1,group-title="Ngoai hang Anh" tvg-logo="https://i.goalzz.com/ai=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",1.Vsports Ultra UHD
-http://raptor-tv.com:80/play/live.phpamac=00:1A:79:73:fa:4e&stream=294070&extension=ts&play_token=vz5caklw0v
-#EXTINF:-1,group-title="Ngoai hang Anh" tvg-logo="https://i.goalzz.com/ai=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",2.Vsports Ultra UHD
-http://apk.androidtrex.com:80/play/live.phpamac=00:1A:79:74:34:8e&stream=530244&extension=ts&play_token=8ugcygU8v0
+http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=294070&extension=ts&play_token=vz5caklw0v
 
+#EXTINF:-1,group-title="Ngoai hang Anh" tvg-logo="https://i.goalzz.com/ai=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",2.Vsports Ultra UHD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=530244&extension=ts&play_token=8ugcygU8v0
 #EXTINF:-1 group-title="FOX Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
 http://free.cvmtv.site/FS1?token=live
 
