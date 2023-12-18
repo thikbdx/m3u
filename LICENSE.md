@@ -3,7 +3,7 @@
 #EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml"
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD 50fps
-https://hqth.me/VTV1TV360
+#https://hqth.me/VTV1TV360
 #EXTINF:0 tvg-id="vv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 https://qnetlive.nethubtv.vn/live/vtv1.smil/playlist.m3u8
@@ -12,7 +12,7 @@ http://vtv.cvmtv.site/VTV1HD?token=live
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/VTV2TV360
+#https://hqth.me/VTV2TV360
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD 50fps
 http://vtv.cvmtv.site/VTV3HD?token=live
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
@@ -22,7 +22,7 @@ https://thick.ddns.net/nice/3/index.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://code.vthanhtivi.pw/getlink/vieon/vtv4-hd/playlist.m3u8
 #EXTINF:-1 group-title="Kênh trong nuac" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50fps
-https://hqth.me/VTV5TV360
+#https://hqth.me/VTV5TV360
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
@@ -161,6 +161,19 @@ http://free.cvmtv.site/Polsat?token=live
 http://free.cvmtv.site/PolsatE?token=live
 #EXTINF:-1 group-title="Kênh thể thao Ba Lan" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
 http://free.cvmtv.site/PolsatN?token=live
+
+#EXTINF:-1 group-title=" Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://tv.vnoo.net/direct_tv/vthanh/tv/spotv.m3u8
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://tv.vnoo.net/direct_tv/vthanh/tv/spotv2.m3u8
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://tv.vnoo.net/direct_tv/vthanh/tv/skysportsmainevent.m3u8
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://tv.vnoo.net/direct_tv/vthanh/tv/skysportsmainevent.m3u8
 #-----------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 1
