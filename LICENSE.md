@@ -13,17 +13,17 @@ http://vtv.cvmtv.site/VTV1HD?token=live
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/tv360/_v9CSGKjS1pjRLguZTLObA/1702900377/3/playlist.m3u8
-#https://hqth.me/VTV2TV360
+https://hqth.me/VTV2TV360
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD 50fps
 http://vtv.cvmtv.site/VTV3HD?token=live
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hqth.me/VTV3TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #https://thick.ddns.net/nice/3/index.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vtv4-hd/playlist.m3u8
-https://code.vthanhtivi.pw/getlink/tv360/VprgBPPf4PNylRl9hfQzQQ/1702900377/108/playlist.m3u8
+https://synguyen.net/api/token/2b5099a22c673619f1a0b15ac1b4b05e/getlink/tv360/id/108
 #EXTINF:-1 group-title="Kênh trong nuac" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50fps
 #https://hqth.me/VTV5TV360
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD 
@@ -37,13 +37,13 @@ http://vtv.cvmtv.site/VTV5HD?token=live
 https://hqth.me/VTVCT360
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://thick.ddns.net/nice/7/index.m3u8
+https://synguyen.net/api/token/2b5099a22c673619f1a0b15ac1b4b05e/getlink/tv360/id/6
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
+https://synguyen.net/api/token/2b5099a22c673619f1a0b15ac1b4b05e/getlink/tv360/id/115
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
+https://synguyen.net/api/token/2b5099a22c673619f1a0b15ac1b4b05e/getlink/tv360/id/8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
@@ -51,7 +51,7 @@ https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #https://hqth.me/VTV5TNTV360
-https://code.vthanhtivi.pw/getlink/tv360/r92-eBCShW5rDSlaIDm-Gg/1702900377/207/playlist.m3u8
+https://synguyen.net/api/token/2b5099a22c673619f1a0b15ac1b4b05e/getlink/tv360/id/207
 #---------------------------------------------------------
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/85.png", K+ CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -128,13 +128,9 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsact/82306.m3u8
 http://vtv.cvmtv.site/HTVTT?token=live
 #------------------------------------------------------------------------
 #EXTINF:-1 group-title="Ngoai hang Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
-http://free.cvmtv.site/StarSL1?token=live
+#http://free.cvmtv.site/StarSL1?token=live
 #EXTINF:-1 group-title="Ngoai hang Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
-http://free.cvmtv.site/StarSL2?token=live
-#EXTINF:-1 group-title="Ngoai hang Anh" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
-http://89.45.13.153:25461/play/live.phpamac=00:1A:79:4b:c9:aa&stream=1350557&extension=ts&play_token=OUA7OifHiI
-#EXTINF:-1,group-title="Ngoai hang Anh" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",1.Hub Premier 2 FHD
-http://89.45.13.153:25461/play/live.phpamac=00:1A:79:4b:c9:aa&stream=1350558&extension=ts&play_token=I7lqZQfynJ
+#http://free.cvmtv.site/StarSL2?token=live
 
 #EXTINF:-1  group-title="Ngoai hang Anh",Digi Sport 1 FHD
 http://kleineinzeige.com:8080/Ciprian-Petrea1/EV7P2jur/10238
@@ -149,17 +145,6 @@ http://ipgurl.xyz:80/Globe/qxi0sjvYJs!@/97118
 http://ipgurl.xyz:80/Globe/qxi0sjvYJs!@/97119
 #EXTINF:-1 group-title="Ngoai hang Anh",BEIN SPORTS PREMIUM 3 FHD
 http://ipgurl.xyz:80/Globe/qxi0sjvYJs!@/97120
-
-#EXTINF:-1 group-title="Ngoai hang Anh", SuperSport Premier League
-
-#EXTINF:-1 group-title="Ngoai hang Anh"SuperSport Football Plus HD
-http://104.243.32.68:25461/unrealKD/p73rmm3dn4/402436
-#EXTINF:-1,group-title="Ngoai hang Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",3.Astro Supersports UHD
-http://apk.androidtrex.com:80/play/live.phpamac=00:1A:79:74:34:8e&stream=1016544&extension=ts&play_token=1EpPfEv4wz
-#EXTINF:-1,group-title="Ngoai hang Anh" tvg-logo="https://i.goalzz.com/ai=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",1.Vsports Ultra UHD
-http://raptor-tv.com:80/play/live.phpamac=00:1A:79:73:fa:4e&stream=294070&extension=ts&play_token=vz5caklw0v
-#EXTINF:-1,group-title="Ngoai hang Anh" tvg-logo="https://i.goalzz.com/ai=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",2.Vsports Ultra UHD
-http://apk.androidtrex.com:80/play/live.phpamac=00:1A:79:74:34:8e&stream=530244&extension=ts&play_token=8ugcygU8v0
 
 #EXTINF:-1 group-title="FOX Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
 http://free.cvmtv.site/FS1?token=live
