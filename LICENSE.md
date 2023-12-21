@@ -22,8 +22,9 @@ https://hqth.me/VTV3TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #https://thick.ddns.net/nice/3/index.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://synguyen.net/api/token/2b5099a22c673619f1a0b15ac1b4b05e/getlink/tv360/id/108
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/928wSRc/VTV4-BEARTV.png",VTV4    
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 group-title="Kênh trong nuac" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50fps
 #https://hqth.me/VTV5TV360
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD 
@@ -36,14 +37,18 @@ http://vtv.cvmtv.site/VTV5HD?token=live
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hqth.me/VTVCT360
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://synguyen.net/api/token/2b5099a22c673619f1a0b15ac1b4b05e/getlink/tv360/id/6
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://i.ibb.co/FYvN38c/VTV8-BEARTV.png",VTV8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://synguyen.net/api/token/2b5099a22c673619f1a0b15ac1b4b05e/getlink/tv360/id/115
+
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://synguyen.net/api/token/2b5099a22c673619f1a0b15ac1b4b05e/getlink/tv360/id/8
+
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
