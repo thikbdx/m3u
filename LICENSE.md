@@ -22,8 +22,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #https://thick.ddns.net/nice/3/index.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD   
+https://code.vthanhtivi.pw/getlink/tv360/D9F5jAdpLy9Q2q7_NnHdJg/1705034193/108/playlist.m3u8
 #EXTVLCOPT:http-referer=http://sctvonline.vn    
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
 #EXTINF:-1 group-title="Kênh trong nuac" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50fps
 #https://hqth.me/VTV5TV360
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD 
@@ -41,8 +42,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://i.ibb.co/FYvN38c/VTV8-BEARTV.png",VTV8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://code.vthanhtivi.pw/getlink/tv360/WJKOOZbQJGoR4gM0S-Gz3A/1705034193/115/playlist.m3u8
 #EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -429,56 +431,52 @@ https://1117141481.vnns.net/VTC14/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://1117141481.vnns.net/VTC16/chunks.m3u8
 #-------------------------------------------------
-#EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/box-movie-1
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360 (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/hollywood-classic
-#EXTINF:-1 tvg-id="inthebox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box TV360 (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/in-the-box
-#EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360 (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/Box-Hits
-#EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360 (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/music-box
-#EXTINF:-1 tvg-id="man" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/man
-#EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/drfit
-#EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/happykids
-#EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/planetearth
-#EXTINF:-1 tvg-id="woman" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/woman
+#EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" group-logo="https://cdn.hqth.me/logo/category/itb.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+http://fpt.vthanhtivi.pw/Box_Movie_1/mpegts
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+http://fpt.vthanhtivi.pw/Hollywood_Classics/mpegts
+#EXTINF:-1 tvg-id="inthebox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+http://fpt.vthanhtivi.pw/In_The_Box/mpegts
+#EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+http://fpt.vthanhtivi.pw/Box_Hits/mpegts
+#EXTINF:-1 tvg-id="man" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+https://code.vthanhtivi.pw/getlink/tv360/Xcgkw9NPDfYYG2IgQMwEVg/1705034193/237/playlist.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="📦 In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 #----------------------------------------------------
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD
-http://vthanhtivi.pw:5000/hbo/index.m3u8
+http://fpt.vthanhtivi.pw/hbo/index.m3u8
+#http://vthanhtivi.pw:5000/hbo/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Quốc tế", CINEMAX HD
-http://vthanhtivi.pw:5000/cinemax/index.m3u8
+http://fpt.vthanhtivi.pw/cinemax/index.m3u8
+#http://vthanhtivi.pw:5000/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
-http://vthanhtivi.pw:5000/axn/index.m3u8
+http://fpt.vthanhtivi.pw/axn/index.m3u8
+#http://vthanhtivi.pw:5000/axn/index.m3u8
 #EXTINF:0 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
-http://vthanhtivi.pw:5000/animax/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/tvfree/animax/playlist.m3u8
+#http://vthanhtivi.pw:5000/animax/index.m3u8
 #EXTINF:0 tvg-id="kix" group-title="Quốc tế" tvg-logo="https://i.ibb.co/QYVd38q/kix.png", KIX HD
 http://210.210.155.37/dr9445/h/h07/01.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/Cartoonito_HD_2021.png/revision/latest/scale-to-width-down/998?cb=20230118063814&path-prefix=vi",Cartoonito HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/tvfree/boomerang/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/pJcF0Ym/Cartoon-Network.png", Cartoon network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/tvfree/cartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="boomerang" group-title=""Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD
+http://vthanhtivi.pw/cartoonito/index.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
+http://fpt.vthanhtivi.pw/cartoon/index.m3u8
 
 #EXTINF:-1 group-title="Quốc tế" tvg-id="zoomoo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/572px-ZooMoo_logo.svg.png",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
