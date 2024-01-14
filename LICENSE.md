@@ -13,6 +13,8 @@ http://free.cvmtv.site/VTV1HD?token=live
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD 50fps
+http://free.cvmtv.site/vtv2?token=live
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD 50fps
 http://free.cvmtv.site/VTV3HD?token=live
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
@@ -177,19 +179,6 @@ http://free.cvmtv.site/PolsatE?token=live
 #EXTINF:-1 group-title="Kênh thể thao Ba Lan" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
 http://free.cvmtv.site/PolsatN?token=live
 
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png", TNT Sport 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://tv.vnoo.net/direct_tv/vthanh/tv/tntsports1.m3u8
-
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png", TNT Sport 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://tv.vnoo.net/direct_tv/vthanh/tv/tntsports2.m3u8
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://tv.vnoo.net/direct_tv/vthanh/tv/skysportsmainevent.m3u8
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://tv.vnoo.net/direct_tv/vthanh/tv/skysportsmainevent.m3u8
 #-----------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.imgur.com/pMhYAxi.jpg", VMT TV x B4TV: B4CONNECT2
@@ -237,6 +226,8 @@ http://free.cvmtv.site/vie?token=live
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/Gtcknx3/onviegiaitri-BEARTV.png",ON Vie GIẢI TRÍ
+http://free.cvmtv.site/vie?token=live
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/zn7tNfS/phim-Viet-BEARTV.png",ON PHIM VIỆT
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
