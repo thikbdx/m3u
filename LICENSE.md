@@ -569,15 +569,15 @@ https://hqth.me/qpvn
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="KÊNH ĐỊA PHƯƠNG" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://14.239.237.196:8889/rtp/232.84.1.195:9144
+https://code.vthanhtivi.pw/getlink/tv360/u70j75d8bGUTXOS7MYPxjg/1705321282/25/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://14.239.237.196:8889/rtp/232.84.1.196:9150
+https://code.vthanhtivi.pw/getlink/tv360/dCtGNvA94AXv7vNu77_o7g/1705321282/26/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://14.239.237.196:8889/rtp/232.84.3.151:10894
+https://code.vthanhtivi.pw/getlink/tv360/u2igPn5_gVmetcyfVS2Hig/1705321282/219/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://14.239.237.196:8889/rtp/232.84.3.150:10906
+https://code.vthanhtivi.pw/getlink/tv360/UARoIu2bNOKQ5wRkVrIuAg/1705321282/220/playlist.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/4PjmtVk/phuyentv.png", Phú Yên
-https://code.vthanhtivi.pw/getlink/fptplay/C73vBuq9pquMU65iQ1u95A/1703072692/phu-yen/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/6sWfUYj7hPRjkXk4Pf5_dQ/1705321282/phu-yen/playlist.m3u8
