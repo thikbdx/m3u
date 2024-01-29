@@ -24,7 +24,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #https://thick.ddns.net/nice/3/index.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD   
-https://code.vthanhtivi.pw/getlink/tv360/D9F5jAdpLy9Q2q7_NnHdJg/1705034193/108/playlist.m3u8
+https://synguyen.net/api/token/36c8add752adae7cba51a5cc9237803e/getlink/tv360/id/108
 #EXTVLCOPT:http-referer=http://sctvonline.vn    
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
 #EXTINF:-1 group-title="Kênh trong nuac" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50fps
@@ -47,7 +47,7 @@ http://103.47.194.152/VTVCT/mpegts
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://i.ibb.co/FYvN38c/VTV8-BEARTV.png",VTV8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/QINSSdYD4Fa99pioUxWM_Q/1706105342/115/playlist.m3u8
+https://synguyen.net/api/token/36c8add752adae7cba51a5cc9237803e/getlink/tv360/id/115
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
@@ -83,8 +83,7 @@ https://synguyen.net/api/token/36c8add752adae7cba51a5cc9237803e/getlink/tv360/id
 #---------------------------------------------
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ 50fps
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://hqth.me/onsportplus50fps
-
+https://synguyen.net/api/token/36c8add752adae7cba51a5cc9237803e/getlink/onlive/id/onsportsplus
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/20231229.m3u8
@@ -94,7 +93,7 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/20231229.m3u8
 https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/82307.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports
-http://vthanhtivi.pw/onsports/index.m3u8
+https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/20231229.m3u8
 #http://b4tv.live:80/play/PlJVLeh3OFlevh__G-rmB3dEKBfhsWqkkkaqT4HqBoW1q7qC0R7LIC-Y_Ark90Mp/ts
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -105,14 +104,14 @@ https://code.vthanhtivi.pw/getlink/onlive/onsports/93020.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
-
+https://synguyen.net/api/token/36c8add752adae7cba51a5cc9237803e/getlink/onlive/id/onsports
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD 50fps
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://hqth.me/onfootball50fps
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Football HD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://code.vthanhtivi.pw/getlink/onlive/xemcaulong/92837.m3u8
-https://code.vthanhtivi.pw/getlink/onlive/onfootball/82310.m3u8
+#https://code.vthanhtivi.pw/getlink/onlive/onfootball/82310.m3u8
 #https://code.vthanhtivi.pw/getlink/onlive/onfootball/93021.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
 https://code.vthanhtivi.pw/getlink/onlive/onfootball/93021.m3u8
