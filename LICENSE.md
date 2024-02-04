@@ -24,9 +24,8 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #https://thick.ddns.net/nice/3/index.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD   
-https://synguyen.net/api/token/36c8add752adae7cba51a5cc9237803e/getlink/tv360/id/108
 #EXTVLCOPT:http-referer=http://sctvonline.vn    
-#https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
 #EXTINF:-1 group-title="Kênh trong nuac" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50fps
 http://103.47.194.152/VTV5/mpegts
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD 
@@ -47,7 +46,7 @@ http://103.47.194.152/VTVCT/mpegts
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://i.ibb.co/FYvN38c/VTV8-BEARTV.png",VTV8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://synguyen.net/api/token/36c8add752adae7cba51a5cc9237803e/getlink/tv360/id/115
+https://synguyen.net/api/token/c28e929db90deb3445e2a7184da03f2c/getlink/tv360/id/115
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
@@ -155,53 +154,32 @@ http://free.cvmtv.site/htvtt?token=live
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-origin=https://weblivehdplay.ru/
 https://code.vthanhtivi.pw/getlink/daddylive/123/index.m3u8
-#EXTINF:-1 group-title=" Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event UK
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/38/index.m3u8
-
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Logo.png?U2t5IFNwb3J0cyBGb290YmFsbA==", Sky Sports Football UK
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/35/index.m3u8
-
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==", Sky Sports EPL UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/130/index.m3u8
 
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350557&extension=ts&play_token=OUA7OifHiI
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",1.Hub Premier 2 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350558&extension=ts&play_token=I7lqZQfynJ
 
-#EXTINF:-1 group-title="Ngoai hang Anh",BEIN SPORTS PREMIUM 1 FHD
-http://ipgurl.xyz:80/Globe/qxi0sjvYJs!@/97118
-#EXTINF:-1 group-title="Ngoai hang Anh",BEIN SPORTS PREMIUM 2 FHD
-http://ipgurl.xyz:80/Globe/qxi0sjvYJs!@/97119
-#EXTINF:-1 group-title="Ngoai hang Anh",BEIN SPORTS PREMIUM 3 FHD
-http://ipgurl.xyz:80/Globe/qxi0sjvYJs!@/97120
-
-#EXTINF:-1 group-title="FOX Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
-http://free.cvmtv.site/FS1?token=live
-
-#EXTINF:-1 group-title="FOX Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
+#EXTINF:-1,group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",1.Astro Supersports UHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://premium.cvtv.xyz/ASSP1?auth=trial:trial
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://premium.cvtv.xyz/ASSP2?auth=trial:trial
 http://free.cvmtv.site/FS2?token=live
 #EXTINF:-1 group-title="Kênh thể thao Ba Lan" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
-http://free.cvmtv.site/Polsat?token=live
+#http://free.cvmtv.site/Polsat?token=live
 
 #EXTINF:-1 group-title="Kênh thể thao Ba Lan" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
-http://free.cvmtv.site/PolsatE?token=live
+#http://free.cvmtv.site/PolsatE?token=live
 #EXTINF:-1 group-title="Kênh thể thao Ba Lan" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
-http://free.cvmtv.site/PolsatN?token=live
+#http://free.cvmtv.site/PolsatN?token=live
 
 #-----------------------------------------------------------------------
-
+#EXTINF:-1 tvg-id="vthanhsp1" group-title="Sự kiện" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
+http://vthanhtivi.pw/vthanhsports1/mpegts
+#EXTINF:-1 tvg-id="vthanhsp2" group-title="Sự kiện" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh Sports 2
+http://vthanhtivi.pw/vthanhsports2/mpegts
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.imgur.com/pMhYAxi.jpg", VMT TV x B4TV: B4CONNECT2
 #EXTVLCOPT:http-user-agent=VThanhTivi8
 http://b4tv.live/b4tv/b4tv/76.m3u8
