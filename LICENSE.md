@@ -74,6 +74,7 @@ http://b4tv.live:80/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8
 #http://b4tv.live:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/87.png", K+ SPORT1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://hoatv001.ddns.net:9981/stream/mux/4f614160c0b2dc588fe383fcdd05c369?
 #https://hqth.me/vmtkplus1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/88.png", K+ SPORT2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
