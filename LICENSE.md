@@ -68,7 +68,7 @@ https://tth.vn/VTV5TNB
 #---------------------------------------------------------
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/85.png", K+ CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://b4tv.live:80/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8
+#http://b4tv.live:80/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://b4tv.live:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
@@ -149,6 +149,12 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsact/82306.m3u8
 #EXTINF:-1 group-title="Thể thao" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
 http://str1.cvtv.xyz/htvtt?token=live
 #------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="spotv1" group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60448
+#EXTINF:-1 tvg-id="spotv2" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60482
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://str1.cvtv.xyz/canal1?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
@@ -229,6 +235,20 @@ http://b4tv.live/b4tv/b4tv/21.m3u8
 http://b4tv.live/b4tv/b4tv/55.m3u8
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="http://103.172.78.47/logotubevent.png", TUBEVENT2 
 http://b4tv.live/b4tv/b4tv/56.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://wintv.fun/360/2554/index.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://wintv.fun/360/1/index.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://wintv.fun/360/148/index.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://wintv.fun/360/2458/index.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png", TV360 Cửu Long
+https://wintv.fun/360/294/index.m3u8
 #-------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",  VTVcab 1 - Vie Giải trí HD
 http://str1.cvtv.xyz/vie?token=live
