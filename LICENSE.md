@@ -24,11 +24,11 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
 https://xem.li/VTV3HDTV360
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/VTV4 
+https://wintv.fun/360/108/index.m3u8
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50fps
-http://103.47.194.152/VTV5/mpegts
+http://viettel.nekocdn.xyz/VTV5/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 http://str1.cvtv.xyz/vtv5?token=live
@@ -39,16 +39,16 @@ http://str1.cvtv.xyz/vtv5?token=live
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/8.png" , VTV Cần Thơ 
 #EXTVLCOPT:http-user-agent=ANTmedia
-http://103.47.194.152/VTVCT/mpegts
+http://viettel.nekocdn.xyz/VTVCT/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
 https://tth.vn/VTV7
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/VTV8
-
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
@@ -100,9 +100,11 @@ http://b4tv.live:80/play/PlJVLeh3OFlevh__G-rmB3dEKBfhsWqkkkaqT4HqBoW1q7qC0R7LIC-
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports
 #https://code.vthanhtivi.pw/getlink/onlive/onsports/93020.m3u8
 https://code.vthanhtivi.pw/getlink/onlive/ONSports/20240204.m3u8
-
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports
+http://113.160.152.31:5050/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Football HD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 #https://code.vthanhtivi.pw/getlink/onlive/xemcaulong/92837.m3u8
 #https://code.vthanhtivi.pw/getlink/onlive/onfootball/82310.m3u8
 #https://code.vthanhtivi.pw/getlink/onlive/onfootball/93021.m3u8
@@ -149,9 +151,16 @@ http://str1.cvtv.xyz/htvtt?token=live
 #EXTINF:-1 tvg-id="spotv1" group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60448
+#EXTINF:-1 tvg-id="spotv1" group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://202.150.161.68/spotv1/index.m3u8
+
 #EXTINF:-1 tvg-id="spotv2" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60482
+#EXTINF:-1 tvg-id="spotv2" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://202.150.161.68/spotv2/index.m3u8
 #EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://str1.cvtv.xyz:8000/canal1?token=live
 #EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
@@ -176,22 +185,32 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350557&ext
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350558&extension=ts&play_token=I7lqZQfynJ
 #EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Malaysia",MY013:Super Sport 1
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1722
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Malaysia",MY014:Super Sport 2
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Malaysia",Super Sport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1721
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Malaysia",MY015:Super Sport 3
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Malaysia",Super Sport 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1720
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Malaysia",MY016:Super Sport 4
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Malaysia",Super Sport 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1719
 
 #EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
-http://str1.cvtv.xyz:8000/Polsat?token=live
+http://str1.cvtv.xyz/Polsat?token=live
 #EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
-http://str1.cvtv.xyz:8000/PolsatE?token=live
+http://str1.cvtv.xyz/PolsatE?token=live
 #EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
-http://str1.cvtv.xyz:8000/PolsatN?token=live
+http://str1.cvtv.xyz/PolsatN?token=live
 #EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
 http://str1.cvtv.xyz:8000/TVPS?token=live
-
+#EXTINF:-1 tvg-name="801" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 
+http://113.160.152.31:5050/rtp/232.84.2.175:10858
+#EXTINF:-1 tvg-name="802" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD
+http://113.160.152.31:5050/rtp/232.84.2.176:10864
+#EXTINF:-1 tvg-name="803" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD
+http://113.160.152.31:5050/rtp/232.84.2.195:10954
+#EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
+http://113.160.152.31:5050/rtp/232.84.2.196:10960
 #-----------------------------------------------------------------------
 #EXTINF:-1 tvg-id="vthanhsp1" group-title="Sự kiện" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
 http://vthanhtivi.pw/vthanhsports1/mpegts
