@@ -9,7 +9,7 @@ http://str1.cvtv.xyz/VTV1HD?token=live
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referer=http://sctvonline.vn
+#EXTVLCOPT:http-referer=http://sctvonline.vn      
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD 50fps
 http://str1.cvtv.xyz/vtv2?token=live
@@ -98,6 +98,8 @@ http://hoatv001.ddns.net:9981/stream/mux/892b3d1af461c12cfc533d720742365c?
 http://b4tv.live:80/play/PlJVLeh3OFlevh__G-rmB3dEKBfhsWqkkkaqT4HqBoW1q7qC0R7LIC-Y_Ark90Mp/ts
 #https://code.vthanhtivi.pw/getlink/onlive/onsports/82308.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.wintv.me/vtvcab3/index.m3u8
 #https://code.vthanhtivi.pw/getlink/onlive/onsports/93020.m3u8
 https://code.vthanhtivi.pw/getlink/onlive/ONSports/20240204.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports
@@ -148,6 +150,17 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsact/82306.m3u8
 #EXTINF:-1 group-title="Thể thao" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
 http://str1.cvtv.xyz/htvtt?token=live
 #------------------------------------------------------------------------
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cdn.hoangai.vn:8000/play/40
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png", SuperSport Tennis
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://mykingtv.net:2082/gadget1k85/pass1k85/12753
+#EXTINF:-1  group-title="Thể thao quốc tế",BEIN SPORT 1 ID 60FPS FHD
+http://mykingtv.net:2082/gadget1k85/pass1k85/8651
+#EXTINF:-1 group-title="Thể thao quốc tế" ,BEIN SPORT 2 ID 60FPS FHD
+http://mykingtv.net:2082/gadget1k85/pass1k85/8652
+
 #EXTINF:-1 tvg-id="spotv1" group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60448
@@ -162,13 +175,14 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60482
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://202.150.161.68/spotv2/index.m3u8
 #EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
-http://str1.cvtv.xyz:8000/canal1?token=live
+http://str1.cvtv.xyz/canal1?token=live
+
 #EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
-http://str1.cvtv.xyz:8000/canal2?token=live
+http://str1.cvtv.xyz/canal2?token=live
 #EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png",Canal+ Sport 5
-http://str1.cvtv.xyz:8000/canal5?token=live
+http://str1.cvtv.xyz/canal5?token=live
 #EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
-http://str1.cvtv.xyz:8000/canalpre?token=live
+http://str1.cvtv.xyz/canalpre?token=live
 
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
 http://str1.cvtv.xyz/canalpre?token=live
@@ -183,7 +197,7 @@ https://code.vthanhtivi.pw/getlink/daddylive/123/index.m3u8
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350557&extension=ts&play_token=OUA7OifHiI
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",1.Hub Premier 2 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350558&extension=ts&play_token=I7lqZQfynJ
-#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Malaysia",MY013:Super Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Malaysia", Super Sport 1
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1722
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Malaysia",Super Sport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
