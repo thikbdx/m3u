@@ -147,57 +147,14 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsact/82306.m3u8
 #EXTINF:-1 group-title="Thể thao" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
 http://str1.cvtv.xyz/htvtt?token=live
 #------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="Thể thao quốc tế",Supersport Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/56/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="Thể thao quốc tế",SuperSport Ngoại hạng anh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/414/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="Thể thao quốc tế",Digi Sport 1 Romania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/400/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="Thể thao quốc tế",Digi Sport 2 Romania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/401/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="Thể thao quốc tế",Astro SuperSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/123/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="Thể thao quốc tế",Astro SuperSport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/124/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="Thể thao quốc tế",Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/125/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="Thể thao quốc tế",Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/126/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="Thể thao quốc tế",Tennis+ 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/700/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="Thể thao quốc tế",Tennis+ 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/701/index.m3u8
-
+#EXTINF:-1 group-title="DAZN" tvg-id="dazne1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ixqrsj1601112641.png",DAZN Eleven 1
+http://premium.cvtv.xyz/ELV1?auth=cv:cv
+#EXTINF:-1 group-title="DAZN" tvg-id="dazne2" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/i7mjna1601113121.png",DAZN Eleven 2
+http://premium.cvtv.xyz/ELV2?auth=cv:cv
+#EXTINF:-1 group-title="Viaplay Sports Nordic" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/6zx8j71641567499.png",V Sport 1
+http://premium.cvtv.xyz/VSp1?auth=cv:cv
+#EXTINF:-1 group-title="Viaplay Sports Nordic" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mm7fap1641504563.png",V Sport Football
+http://premium.cvtv.xyz/VSpF?auth=cv:cv
 
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
