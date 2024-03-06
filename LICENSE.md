@@ -3,14 +3,15 @@
 #EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml"
 #EXTINF:0 tvg-id="vv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
-https://qnetlive.nethubtv.vn/live/vtv1.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VMT
+https://wintv.fun/360/2/index.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD 50fps
 http://str1.cvtv.xyz/VTV1HD?token=live
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referer=http://sctvonline.vn      
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
+#EXTVLCOPT:http-user-agent=VMT
+https://wintv.fun/360/3/index.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD 50fps
 http://str1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD 50fps
@@ -18,7 +19,7 @@ http://str1.cvtv.xyz/VTV3HD?token=live
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn      
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
+#https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 #EXTVLCOPT:http-user-agent=VMT
 https://xem.li/VTV3HDTV360
@@ -28,7 +29,9 @@ https://wintv.fun/360/108/index.m3u8
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50fps
-http://viettel.nekocdn.xyz/VTV5/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://wintv.fun/360/110/index.m3u8
+#http://viettel.nekocdn.xyz/VTV5/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 http://str1.cvtv.xyz/vtv5?token=live
@@ -38,8 +41,9 @@ http://str1.cvtv.xyz/vtv5?token=live
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/8.png" , VTV Cần Thơ 
-#EXTVLCOPT:http-user-agent=ANTmedia
-http://viettel.nekocdn.xyz/VTVCT/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://wintv.fun/360/98/index.m3u8
+#http://viettel.nekocdn.xyz/VTVCT/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
