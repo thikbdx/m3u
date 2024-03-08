@@ -160,7 +160,8 @@ http://str1.cvtv.xyz/htvtt?token=live
 
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://cdn.hoangai.vn:8000/play/40
+http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/294765
+#http://cdn.hoangai.vn:8000/play/40
 #EXTINF:-1 tvg-id="spotv1" group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60448
@@ -174,11 +175,14 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60482
 #EXTINF:-1 tvg-id="spotv2" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://202.150.161.68/spotv2/index.m3u8
-
-#EXTINF:-1 group-title="Sự kiện" tvg-id="hoy76" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png",HOY TV 76
-http://str1.cvtv.xyz/ibc?token=live
-#EXTINF:-1 group-title="Sự kiện" tvg-id="hoy77" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png",HOY TV 77
-http://str1.cvtv.xyz/hoy?token=live
+#EXTINF:-1,AF: SuperSport Premier League HD ( Ngoại hạng Anh)
+http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/294767
+#EXTINF:-1,RO: Digi Sport 1 FHD ( Ngoại hạng Anh)
+http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/123619
+#EXTINF:-1,HK: Now Premier Sports 1 FHD ( Ngoại hạng Anh)
+http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/200230
+#EXTINF:-1,HK: Now Premier Sports 2 FHD ( Ngoại hạng Anh)
+http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/200229
 
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350557&extension=ts&play_token=OUA7OifHiI
