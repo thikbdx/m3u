@@ -94,6 +94,7 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/20231229.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/93019.m3u8
+#http://vcis.nekocdn.xyz/onsportsplus/index.m3u8
 #https://api.wintv.me/vtvcab6/index.m3u8
 #https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
@@ -107,6 +108,7 @@ http://hoatv001.ddns.net:9981/stream/mux/892b3d1af461c12cfc533d720742365c?
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://b4tv.live:80/play/PlJVLeh3OFlevh__G-rmB3dEKBfhsWqkkkaqT4HqBoW1q7qC0R7LIC-Y_Ark90Mp/ts
 https://code.vthanhtivi.pw/getlink/onlive/ONSports/20240204.m3u8
+#http://vcis.nekocdn.xyz/onsports/index.m3u8
 #https://code.vthanhtivi.pw/getlink/onlive/onsports/82308.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -127,6 +129,7 @@ https://api.wintv.me/vtvcab16/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/onlive/onfootball/93021.m3u8
+#http://vcis.nekocdn.xyz/onfootball/index.m3u8
 #http://vthanhtivi.pw/onfootball/index.m3u8
 #http://d343f8ab.vthanhtivi.pw/onfootball/index.m3u8
 
@@ -136,10 +139,11 @@ https://code.vthanhtivi.pw/getlink/onlive/onfootball/93021.m3u8
 https://api.wintv.me/vtvcab18/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News 
-https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/82309.m3u8
+#https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/82309.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/20231229.m3u8
+http://vcis.nekocdn.xyz/onsportsnews/index.m3u8
+#https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/20231229.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
 #https://code.vthanhtivi.pw/getlink/sctvonline/sctv15/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
@@ -175,28 +179,28 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60482
 #EXTINF:-1 tvg-id="spotv2" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://202.150.161.68/spotv2/index.m3u8
-#EXTINF:-1,AF: SuperSport Premier League HD ( Ngoại hạng Anh)
+#EXTINF:-1 group-title="Ngoại hạng anh",AF: SuperSport Premier League HD ( Ngoại hạng Anh)
 http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/294767
-#EXTINF:-1,RO: Digi Sport 1 FHD ( Ngoại hạng Anh)
+#EXTINF:-1 group-title="Ngoại hạng anh",RO: Digi Sport 1 FHD ( Ngoại hạng Anh)
 http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/123619
-#EXTINF:-1,HK: Now Premier Sports 1 FHD ( Ngoại hạng Anh)
+#EXTINF:-1 group-title="Ngoại hạng anh",HK: Now Premier Sports 1 FHD ( Ngoại hạng Anh)
 http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/200230
-#EXTINF:-1,HK: Now Premier Sports 2 FHD ( Ngoại hạng Anh)
-http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/200229
+#EXTINF:-1 group-title="Ngoại hạng anh",HK: Now Sports 1 FHD
+http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/246323
+#EXTINF:-1 group-title="Ngoại hạng anh",HK: Now Sports 2 FHD
+http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/246324
+#EXTINF:-1 group-title="Ngoại hạng anh",HK: Now Sports 3 FHD
+http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/200224
 
-#EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350557&extension=ts&play_token=OUA7OifHiI
-#EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",1.Hub Premier 2 FHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350558&extension=ts&play_token=I7lqZQfynJ
-#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Malaysia", Super Sport 1
+#EXTINF:-1 group-title="Ngoại hạng anh", Super Sport 1
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1722
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Malaysia",Super Sport 2
+#EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1721
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Malaysia",Super Sport 3
+#EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1720
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Malaysia",Super Sport 4
+#EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1719
 
@@ -516,7 +520,7 @@ http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 #http://vthanhtivi.pw:5000/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 http://viettel.nekocdn.xyz/AXN/index.m3u8
-http://fpt.vthanhtivi.pw/axn/index.m3u8
+#http://fpt.vthanhtivi.pw/axn/index.m3u8
 #http://vthanhtivi.pw:5000/axn/index.m3u8
 #EXTINF:0 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
