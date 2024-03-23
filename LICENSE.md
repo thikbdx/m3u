@@ -85,7 +85,7 @@ https://wintv.fun/360/207/index.m3u8
 #http://b4tv.live:80/play/4QwRtVvD1xJIP-l7j-o7Ulu6DdFdEKoNRZC1kSMUKdg/m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/89.png", K+ KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vcis.nekocdn.xyz/kkids/index.m3u8
+#http://vcis.nekocdn.xyz/kkids/index.m3u8
 #http://b4tv.live:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
 #---------------------------------------------
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ 50fps
@@ -193,7 +193,8 @@ http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/246324
 http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/200224
 
 #EXTINF:-1 group-title="Ngoại hạng anh", Super Sport 1
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1722
+http://mykingtv.net:2082/gadget1k85/pass1k85/8548
+#http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1722
 #EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1721
@@ -205,8 +206,10 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1720
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1719
 
 #EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
+http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/113634
 #http://str1.cvtv.xyz/Polsat?token=live
 #EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
+http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/113635
 #http://str1.cvtv.xyz/PolsatE?token=live
 #EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
 #http://str1.cvtv.xyz/PolsatN?token=live
@@ -220,10 +223,13 @@ http://113.160.152.31:5050/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
 http://113.160.152.31:5050/rtp/232.84.2.196:10960
 #-----------------------------------------------------------------------
+#EXTINF:-1 tvg-id="vthanhchannel" group-title="Sự kiện" tvg-logo="https://cdn.hqth.me/vthanhchannel_thumb.png", VThanh Channel
+http://viettel.nekocdn.xyz/vthanhchannel/mpegts
 #EXTINF:-1 tvg-id="vthanhsp1" group-title="Sự kiện" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
 http://viettel.nekocdn.xyz/vthanhsports1/mpegts
 #EXTINF:-1 tvg-id="vthanhsp2" group-title="Sự kiện" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh Sports 2
 http://viettel.nekocdn.xyz/vthanhsports2/mpegts
+
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.imgur.com/pMhYAxi.jpg", VMT TV x B4TV: B4CONNECT2
 #EXTVLCOPT:http-user-agent=VThanhTivi8
 http://b4tv.live/b4tv/b4tv/76.m3u8
