@@ -429,58 +429,48 @@ https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 #-----------------------------------------------
-#EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc1-hd/${start}/${offset}", VTC1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://liveh12.vtvcab.vn/hls/ONVTC1_CL/04.m3u8
-#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://1117141481.vnns.net/VTC2/playlist.m3u8
-#EXTINF:0 tvg-id="VTC3 HD" "group-title="VTC" tvg-logo="https://i.ibb.co/Jkzf9Dm/VTC3.png" tvg-chno="51" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://1117141481.vnns.net/VTC3/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc1" group-title="VTC" group-logo="https://yt3.googleusercontent.com/8Wwe5BV_jrnDZ_dx1nB4OJTXF9n9bts9-RTC0fRj1VYiqd1lGQ_zk-VPNmHoN4MD8aUA6EJrwcE=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc1-hd/xemlai/${start}-${offset}", VTC1 HD
+https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc4-yeah1-family-hd/${start}/${offset}", VTC4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://1117141481.vnns.net/VTC4/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc5-hd/${start}/${offset}", VTC5 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vtc5-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://1117141481.vnns.net/VTC6/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD - TodayTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://1117141481.vnns.net/VTC7/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc8/${start}/${offset}", VTC8
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://1117141481.vnns.net/VTC8/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc9-hd/${start}/${offset}", VTC9 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://1117141481.vnns.net/VTC9/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc9-hd/${start}/${offset}", VTC9 HD (TV360)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/tv360/tv360.php?id=203
-#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://1117141481.vnns.net/VTC10/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://1117141481.vnns.net/VTC11/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png", VTC12 
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://1117141481.vnns.net/VTC12/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://1117141481.vnns.net/VTC13/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13 4K
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
-#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc14-hd/${start}/${offset}", VTC14 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://1117141481.vnns.net/VTC14/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc16-hd/${start}/${offset}", VTC16 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://1117141481.vnns.net/VTC16/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc2-reidius-tv/xemlai/${start}-${offset}", VTC2
+https://1236573804.pop.vnptcdn.com/VTC2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc3-hd/xemlai/${start}-${offset}", VTC3 HD
+https://1236573804.pop.vnptcdn.com/VTC3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc4-yeah1-family-hd/xemlai/${start}-${offset}", VTC4 HD
+https://1236573804.pop.vnptcdn.com/VTC4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc5-hd/xemlai/${start}-${offset}", VTC5 HD
+https://1236573804.pop.vnptcdn.com/VTC5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc6/xemlai/${start}-${offset}", VTC6 HD
+https://1236573804.pop.vnptcdn.com/VTC6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc7-todaytv-hd/xemlai/${start}-${offset}", VTC7 HD - TodayTV
+https://1236573804.pop.vnptcdn.com/VTC7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc8/xemlai/${start}-${offset}", VTC8
+https://1236573804.pop.vnptcdn.com/VTC8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc9-hd/xemlai/${start}-${offset}", VTC9 HD
+https://1236573804.pop.vnptcdn.com/VTC9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc10-1/xemlai/${start}-${offset}", VTC10 HD
+https://1236573804.pop.vnptcdn.com/VTC10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc11-kids-tv/xemlai/${start}-${offset}", VTC11
+https://1236573804.pop.vnptcdn.com/VTC11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png", VTC12 - VTC K
+
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc13-hd/xemlai/${start}-${offset}", VTC13 HD
+
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc14-hd/xemlai/${start}-${offset}", VTC14 HD
+https://1236573804.pop.vnptcdn.com/VTC14/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc16-hd/xemlai/${start}-${offset}", VTC16 HD
+https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 #-------------------------------------------------
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
