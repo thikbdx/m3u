@@ -202,16 +202,14 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60482
 #EXTINF:-1 tvg-id="spotv2" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://202.150.161.68/spotv2/index.m3u8
-#EXTINF:-1 group-title="Ngoại hạng anh",AF: SuperSport Premier League HD ( Ngoại hạng Anh)
-http://mykingtv.net:2082/gadget1k85/pass1k85/12748
-
-#EXTINF:-1 group-title="Ngoại hạng anh",HK: Now Premier Sports 1 FHD ( Ngoại hạng Anh)
-
-#EXTINF:-1 group-title="Ngoại hạng anh",HK: Now Sports 1 FHD
-
-#EXTINF:-1 group-title="Ngoại hạng anh",HK: Now Sports 2 FHD
-
-#EXTINF:-1 group-title="Ngoại hạng anh",HK: Now Sports 3 FHD
+#EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1 
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
+https://edge1.laotv.la/live/THD7/index.m3u8
 
 #EXTINF:-1 group-title="Ngoại hạng anh", Super Sport 1
 http://mykingtv.net:2082/gadget1k85/pass1k85/8548
@@ -226,14 +224,13 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1720
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1719
 
-#EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
+#EXTINF:-1,PL044:Polsat Sport Premium 1 HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33488
+#EXTINF:-1,PL045:Polsat Sport Premium 2 HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33487
+#EXTINF:-1,PL046:Polsat Sport Premium 3
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33486
 
-#http://str1.cvtv.xyz/Polsat?token=live
-#EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
-
-#http://str1.cvtv.xyz/PolsatE?token=live
-#EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
-#http://str1.cvtv.xyz/PolsatN?token=live
 
 #EXTINF:-1 tvg-name="801" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 
 http://113.160.152.31:5050/rtp/232.84.2.175:10858
