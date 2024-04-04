@@ -187,7 +187,7 @@ http://str1.cvtv.xyz/htvtt?token=live
 
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/294765
+http://mykingtv.net:2082/gadget1k85/pass1k85/12753
 #http://cdn.hoangai.vn:8000/play/40
 #EXTINF:-1 tvg-id="spotv1" group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -203,17 +203,15 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60482
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://202.150.161.68/spotv2/index.m3u8
 #EXTINF:-1 group-title="Ngoại hạng anh",AF: SuperSport Premier League HD ( Ngoại hạng Anh)
-http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/294767
-#EXTINF:-1 group-title="Ngoại hạng anh",RO: Digi Sport 1 FHD ( Ngoại hạng Anh)
-http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/123619
+http://mykingtv.net:2082/gadget1k85/pass1k85/12748
+
 #EXTINF:-1 group-title="Ngoại hạng anh",HK: Now Premier Sports 1 FHD ( Ngoại hạng Anh)
-http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/200230
+
 #EXTINF:-1 group-title="Ngoại hạng anh",HK: Now Sports 1 FHD
-http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/246323
+
 #EXTINF:-1 group-title="Ngoại hạng anh",HK: Now Sports 2 FHD
-http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/246324
+
 #EXTINF:-1 group-title="Ngoại hạng anh",HK: Now Sports 3 FHD
-http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/200224
 
 #EXTINF:-1 group-title="Ngoại hạng anh", Super Sport 1
 http://mykingtv.net:2082/gadget1k85/pass1k85/8548
@@ -229,10 +227,10 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1720
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1719
 
 #EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
-http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/113634
+
 #http://str1.cvtv.xyz/Polsat?token=live
 #EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
-http://piorto5i6f7.ddns.net:80/rzJVizdrCi/s0eaCpjzOa/113635
+
 #http://str1.cvtv.xyz/PolsatE?token=live
 #EXTINF:-1 group-title="Polsat - TVP Sport" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
 #http://str1.cvtv.xyz/PolsatN?token=live
