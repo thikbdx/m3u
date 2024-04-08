@@ -340,6 +340,7 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsact/82306.m3u8
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
+
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8
@@ -453,25 +454,33 @@ https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD
+http://183.80.118.93:2023/udp/225.1.3.10:30120
 http://viettel.nekocdn.xyz/HBO/index.m3u8
 #http://fpt.vthanhtivi.pw/hbo/index.m3u8
-#http://vthanhtivi.pw:5000/hbo/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD Dự phòng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/channel/QSsweHpibkRpZjJzbGxwY3JoUGtVT2xNQW05QWpxVVFoSFcwMWJubkVwdndqeHowYXpRZmJFNVlkQ2N6V1E3N3hsTVZ6VUxIK2trRnFyNmpucTVZNWc9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Quốc tế", CINEMAX HD
-http://viettel.nekocdn.xyz/Cinemax/index.m3u8
+http://113.162.44.19:8889/rtp/232.84.3.117:10654
+#http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 #http://fpt.vthanhtivi.pw/cinemax/index.m3u8
-#http://vthanhtivi.pw:5000/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD Dự phòng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/channel/QSsweHpibkRpZjJzbGxwY3JoUGtVT2xNQW05QWpxVVFoSFcwMWJubkVwdndqeHowYXpRZmJFNVlkQ2N6V1E3N2FSdHZlSllibUNZZlVNN1Noa0M4SHc9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
-http://viettel.nekocdn.xyz/AXN/index.m3u8
+http://113.162.44.19:8889/rtp/232.84.2.140:10660
+#http://viettel.nekocdn.xyz/AXN/index.m3u8
 #http://fpt.vthanhtivi.pw/axn/index.m3u8
 #http://vthanhtivi.pw:5000/axn/index.m3u8
 #EXTINF:0 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-http://viettel.nekocdn.xyz/Animax/index.m3u8
+http://183.80.118.93:2023/udp/225.1.1.135:30120
+#http://viettel.nekocdn.xyz/Animax/index.m3u8
 #https://code.vthanhtivi.pw/getlink/tvfree/animax/playlist.m3u8
 #http://vthanhtivi.pw:5000/animax/index.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/223.png", History HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://viettel.nekocdn.xyz/History/index.m3u8
+http://mykingtv.net:2082/gadget1k85/pass1k85/6990
 #EXTINF:0 tvg-id="kix" group-title="Quốc tế" tvg-logo="https://i.ibb.co/QYVd38q/kix.png", KIX HD
 http://210.210.155.37/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title=""Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD
@@ -489,7 +498,8 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 http://viettel.nekocdn.xyz/AnimalPlanet/index.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc tế" group-logo="https://cdn.antmediatv.xyz/group/QuocTe.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png",BBC Earth
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://viettel.nekocdn.xyz/BBCEarth/index.m3u8
+http://113.162.44.19:8889/rtp/232.84.3.226:11278
+#http://viettel.nekocdn.xyz/BBCEarth/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.ibb.co/1XJfX2v/afn.png" group-title="Quốc tế",Asian Food Network
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 #https://thick.ddns.net/tv360/tv360.php?id=215
@@ -502,13 +512,14 @@ https://qnetlive.nethubtv.vn/live/france24hd.smil/chunklist_b1628000_sleng.m3u8
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.ibb.co/SNWQSqq/KBS-World.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KBS World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://thick.ddns.net/vieon/kbs-world/de3c563c765f805bdffc1b32bab423a59af272b6/index2.m3u8
+#https://thick.ddns.net/vieon/kbs-world/de3c563c765f805bdffc1b32bab423a59af272b6/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1546499022_nhkworldpremium.jpg" group-title="Quốc tế",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
 http://vthanhtivi.pw:5000/bbcearth/index.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC World News
-http://edge.vthanhtivi.pw/BBC_News/mpegts
+http://113.162.44.19:8889/rtp/232.84.3.224:11266
+
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
