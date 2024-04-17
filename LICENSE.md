@@ -241,19 +241,18 @@ http://113.162.102.69:8989/rtp/232.84.2.196:10960
 #-----------------------------------------------------------------------
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/boxmovie1hd
+https://hqth.me/boxmovie1hd
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/Hollywood
-
+https://hqth.me/hollywoodhd
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-https://tth.vn/intheboxhd
+https://hqth.me/intheboxhd
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/boxhits
+https://hqth.me/boxhits
 #EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/musicbox
+https://hqth.me/musicbox
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
