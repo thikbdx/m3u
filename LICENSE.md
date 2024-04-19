@@ -7,16 +7,20 @@
 http://171.238.181.52:18080/154.m3u8
 #https://wintv.fun/360/2/index.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD 50fps
-http://str1.cvtv.xyz/VTV1HD?token=live
+http://s4.nihontv.net:21585/vtv1/index.m3u8
+#http://str1.cvtv.xyz/VTV1HD?token=live
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=VMT
 http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD 50fps
-http://str1.cvtv.xyz/vtv2?token=live
+#EXTVLCOPT:http-user-agent=VMT
+https://apps3.101vn.com/cl.php?id=2&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
+#http://str1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD 50fps
-http://str1.cvtv.xyz/VTV3HD?token=live
+http://s4.nihontv.net:21585/vtv3/index.m3u8
+#http://str1.cvtv.xyz/VTV3HD?token=live
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn      
@@ -32,12 +36,12 @@ http://s4.nihontv.net:21585/vtv4/index.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50fps
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://171.238.181.52:18080/194.m3u8
+https://apps3.101vn.com/cl.php?id=5&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
 #https://wintv.fun/360/110/index.m3u8
 #http://viettel.nekocdn.xyz/VTV5/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
-http://str1.cvtv.xyz/vtv5?token=live
+#http://str1.cvtv.xyz/vtv5?token=live
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50fps
 http://171.238.181.52:18080/194.m3u8
 
@@ -68,9 +72,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8?
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv5tnb-manifest.m3u8
+https://apps3.101vn.com/cl.php?id=7&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
-https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv5tn-manifest.m3u8
+https://apps3.101vn.com/cl.php?id=163&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
 
 #---------------------------------------------------------
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/85.png", K+ CINE HD
