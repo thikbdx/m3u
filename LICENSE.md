@@ -175,7 +175,7 @@ https://hqth.me/tv360plus3
 https://hqth.me/tv360plus4
 #------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mykingtv.net:2082/gadget1k85/pass1k85/12753
 
@@ -215,47 +215,47 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1720
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1719
 
-#EXTINF:-1,PL044:Polsat Sport Premium 1 HD
+#EXTINF:-1 group-title="Sự kiện",Polsat Sport Premium 1 HD
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33488
-#EXTINF:-1,PL045:Polsat Sport Premium 2 HD
+#EXTINF:-1 group-title="Sự kiện", Polsat Sport Premium 2 HD
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33487
-#EXTINF:-1,PL046:Polsat Sport Premium 3
+#EXTINF:-1 group-title="Sự kiện", Polsat Sport Premium 3
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33486
 #EXTINF:-1 tvg-name="801" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801
-http://113.162.102.69:8989/rtp/232.84.2.175:10858
+http://113.162.44.19:8889/rtp/232.84.2.175:10858
 #EXTINF:-1 tvg-name="802" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD
-http://113.162.102.69:8989/rtp/232.84.2.176:10864
+http://113.162.44.19:8889/rtp/232.84.2.176:10864
 #EXTINF:-1 tvg-name="803" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD
-http://113.162.102.69:8989/rtp/232.84.2.195:10954
+http://113.162.44.19:8889/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
-http://113.162.102.69:8989/rtp/232.84.2.196:10960
+http://113.162.44.19:8889/rtp/232.84.2.196:10960
 
 
 #-----------------------------------------------------------------------
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hqth.me/boxmovie1hd
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hqth.me/hollywoodhd
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
 https://hqth.me/intheboxhd
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
+#EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hqth.me/boxhits
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
+#EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hqth.me/musicbox
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
+#EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids TV360
+#EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tth.vn/happykidshd
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth TV360
+#EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman TV360
+#EXTINF:-1 tvg-id="woman" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 #-----------------------------------------------------------------
@@ -462,7 +462,7 @@ http://ip168.homeip.net:8086/hbo.m3u8
 https://hqth.me/cinemaxkb
 #http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 #http://fpt.vthanhtivi.pw/cinemax/index.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD Dự phòng
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 http://ip168.homeip.net:8086/cinemax.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
@@ -470,6 +470,8 @@ https://hqth.me/axnkb
 #http://viettel.nekocdn.xyz/AXN/index.m3u8
 #http://fpt.vthanhtivi.pw/axn/index.m3u8
 #http://vthanhtivi.pw:5000/axn/index.m3u8
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
+http://s4.nihontv.net:21585/axn/index.m3u8
 #EXTINF:0 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #http://183.80.118.93:2023/udp/225.1.1.135:30120
