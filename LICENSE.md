@@ -146,22 +146,25 @@ https://tth.vn/onsportnews
 #https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/20231229.m3u8
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
-#https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
-#https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?
+
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv17/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://pc-web.stream.onlive.vn/live-stm-03/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.tRDxRHDa515BUFalDtALzOr1cuxisN5oAnbv0srDFHX6WA_5h1tKC9RxSj916qMhRXuf7ENHojeSwknGrgwQa2yfn-b3o-IV9e3j1womRMM
+#https://pc-web.stream.onlive.vn/live-stm-03/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.tRDxRHDa515BUFalDtALzOr1cuxisN5oAnbv0srDFHX6WA_5h1tKC9RxSj916qMhRXuf7ENHojeSwknGrgwQa2yfn-b3o-IV9e3j1womRMM
 #https://xem.li/onaction
 #EXTINF:-1 tvg-id="btv5hd" group-title="Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tthd.site/360/2380/index.m3u8
+#https://tthd.site/360/2380/index.m3u8
 
 #EXTINF:-1 group-title="Thể thao" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
 
