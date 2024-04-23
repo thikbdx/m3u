@@ -65,6 +65,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8?
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://apps3.101vn.com/cl.php?id=36&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9
