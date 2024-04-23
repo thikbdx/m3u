@@ -484,9 +484,6 @@ https://hqth.me/cinemaxkb
 http://ip168.homeip.net:8086/cinemax.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 https://hqth.me/axnkb
-#http://viettel.nekocdn.xyz/AXN/index.m3u8
-#http://fpt.vthanhtivi.pw/axn/index.m3u8
-#http://vthanhtivi.pw:5000/axn/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 http://s4.nihontv.net:21585/axn/index.m3u8
 #EXTINF:0 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
