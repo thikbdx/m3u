@@ -187,9 +187,6 @@ https://tth.vn/tv360plus4
 #https://hqth.me/tv360plus4
 #------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://mykingtv.net:2082/gadget1k85/pass1k85/12753
 #EXTINF:-1 group-title="Sự kiện"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -211,17 +208,16 @@ http://202.150.161.68/spotv2/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0b
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=84&extension=ts&play_token=waLxJFq8yU
 #EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1 
-https://ctrl.laotv.la/live/TSport1/index.m3u8
+#https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
+#https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 #EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
-https://edge1.laotv.la/live/THD7/index.m3u8
+#https://edge1.laotv.la/live/THD7/index.m3u8
 
 #EXTINF:-1 group-title="Ngoại hạng anh", Super Sport 1
-http://mykingtv.net:2082/gadget1k85/pass1k85/8548
-#http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1722
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1722
 #EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1721
@@ -372,7 +368,7 @@ https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD - SCJ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/g4rNcCM/SCTV6-cc.webp",SCTV6
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.ibb.co/g4rNcCM/SCTV6-cc.webp",SCTV6
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/index.m3u8?
 
