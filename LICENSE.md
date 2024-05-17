@@ -63,7 +63,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8?
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8?
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/2009311989?profile=pass
+https://epg.pw/stream/efca89ebccf8f89f7d3a768cf4e58d1464c287f8a123f2d93ff6c984889493dd.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -71,14 +71,14 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8?
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/462220505?profile=pass
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8?
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1841573868?profile=pass
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
@@ -122,7 +122,7 @@ https://tth.vn/onsportplus
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://api.wintv.me/vtvcab3/index.m3u8
-#http://hoatv001.ddns.net:9981/stream/mux/892b3d1af461c12cfc533d720742365c?
+http://hoatv001.ddns.net:9981/stream/mux/892b3d1af461c12cfc533d720742365c?
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports
 http://113.160.152.31:5050/rtp/232.84.3.242:11374
@@ -224,23 +224,28 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1720
 #EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1719
-
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub.png", Sport Klub 1 Serbia
+http://ky-iptv.com:80/Ivica5274/juric4005/225587
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/axtu9e1604073980.png", Sport Klub 2 Serbia
+http://ky-iptv.com:80/Ivica5274/juric4005/225588
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0swmzk1604074014.png", Sport Klub 3 Serbia
+http://ky-iptv.com:80/Ivica5274/juric4005/222738
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/b7gfm41604074032.png", Sport Klub 4 Serbia
+http://ky-iptv.com:80/Ivica5274/juric4005/222739
 #EXTINF:-1 group-title="Sự kiện",Polsat Sport Premium 1 HD
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33488
+#http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33488
 #EXTINF:-1 group-title="Sự kiện", Polsat Sport Premium 2 HD
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33487
+#http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33487
 #EXTINF:-1 group-title="Sự kiện", Polsat Sport Premium 3
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33486
+#http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33486
 #EXTINF:-1 tvg-name="801" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801
-http://113.162.44.19:8889/rtp/232.84.2.175:10858
+http://14.234.155.6:1024/rtp/232.84.2.175:10858
 #EXTINF:-1 tvg-name="802" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD
-http://113.162.44.19:8889/rtp/232.84.2.176:10864
+http://14.234.155.6:1024/rtp/232.84.2.176:10864
 #EXTINF:-1 tvg-name="803" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD
-http://113.162.44.19:8889/rtp/232.84.2.195:10954
+http://14.234.155.6:1024/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
-http://113.162.44.19:8889/rtp/232.84.2.196:10960
-
-
+http://14.234.155.6:1024/rtp/232.84.2.196:10960
 #-----------------------------------------------------------------------
 #EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -685,34 +690,42 @@ https://1011337676.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", VNews
-https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist.m3u8
+https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
+#https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", Nhân Dân TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2065072109.m3u8
+https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/03.m3u8
+#https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2065072109.m3u8
 #https://code.vthanhtivi.pw/getlink/vieon/nhan-dan-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
+#http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://playlive.qpvn.vn/live/qpvn.m3u8
+#https://playlive.qpvn.vn/live/qpvn.m3u8
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 #--------------------------------------------------------------------
 #EXTINF:0 tvg-id=""group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_480_270.png", TV360 Miền Tây
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 #https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?
+#http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1420102573?profile=pass
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 #https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8?
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
+#http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/983258697?profile=pass
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1804627028?profile=pass
+https://live.pipitv.top/stream/channelid/1322301157
+#http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1804627028?profile=pass
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1099105158?profile=pass
+https://live.pipitv.top/stream/channelid/545009077
+#http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1099105158?profile=pass
 #https://tth.vn/vinhlong4hd
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/4PjmtVk/phuyentv.png", Phú Yên
 https://ott3.nethubtv.vn/live/phuyentv/playlist.m3u8
