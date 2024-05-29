@@ -118,7 +118,7 @@ http://171.238.181.52:18080/308.m3u8
 https://tth.vn/onsportplus
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#https://dethich.pw/vtvcab6/index.m3u8
+http://171.227.65.31:8889/rtp/239.12.251.189:5000
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -126,7 +126,7 @@ https://tth.vn/onsportplus
 http://hoatv001.ddns.net:9981/stream/mux/892b3d1af461c12cfc533d720742365c?
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports
-http://171.227.65.31:8889/rtp/232.84.3.242:11374
+http://14.170.234.6:8989/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/onsport
@@ -194,10 +194,10 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=168535&extension=ts&play_token=YeQrSUn75j
 #EXTINF:-1 tvg-id="spotv1" group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60448
+#http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60448
 #EXTINF:-1 tvg-id="spotv1" group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://202.150.161.68/spotv1/index.m3u8
+#http://202.150.161.68/spotv1/index.m3u8
 
 #EXTINF:-1 tvg-id="spotv2" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -207,30 +207,22 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60482
 http://202.150.161.68/spotv2/index.m3u8
 #EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0b
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=84&extension=ts&play_token=waLxJFq8yU
-#EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1 
-#EXTVLCOPT:http-user-agent=dovietsy
-https://edge2.laotv.la/live/TSport1/index.m3u8
-#https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
-#EXTVLCOPT:http-user-agent=dovietsy
-#https://edge2.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
-#https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="Ngoại hạng anh" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
-#https://edge1.laotv.la/live/THD7/index.m3u8
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=84&extension=ts&play_token=waLxJFq8y
 
 #EXTINF:-1 group-title="Ngoại hạng anh", Super Sport 1
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1722
 #EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1721
+
 #EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1720
+
 #EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1719
+
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports HK UHD
+http://ky-iptv.com:80/Ivica5274/juric4005/2695078.ts
+
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub.png", Sport Klub 1 Serbia
 http://ky-iptv.com:80/Ivica5274/juric4005/225587
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/axtu9e1604073980.png", Sport Klub 2 Serbia
@@ -522,21 +514,28 @@ https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD
 #http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/401989616?profile=pass
 https://hqth.me/hbokb
-#http://viettel.nekocdn.xyz/HBO/index.m3u8
-#http://fpt.vthanhtivi.pw/hbo/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://hoatv001.ddns.net:9981/stream/mux/17a2c595c0e78091ba9aac7dbd8934f1?
+
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD Asia
 http://ip168.homeip.net:8086/hbo.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Quốc tế", CINEMAX HD
 #http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1392070323?profile=pass
 https://hqth.me/cinemaxkb
-#http://viettel.nekocdn.xyz/Cinemax/index.m3u8
-#http://fpt.vthanhtivi.pw/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD (rtp)
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://hoatv001.ddns.net:9981/stream/mux/3d933f79df3d477b9471a2eeda8656b3?
+
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 http://ip168.homeip.net:8086/cinemax.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 #http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/84468598?profile=pass
 https://hqth.me/axnkb
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
+http://hoatv001.ddns.net:9981/stream/mux/f619fe796448b873e5cdfdda975e6eb9?
+
 #EXTINF:0 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tth.vn/animax
