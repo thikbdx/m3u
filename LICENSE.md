@@ -128,7 +128,7 @@ http://171.227.65.31:8889/rtp/239.12.251.189:5000
 http://hoatv001.ddns.net:9981/stream/mux/892b3d1af461c12cfc533d720742365c?
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports
-http://14.170.234.6:8989/rtp/232.84.3.242:11374
+http://113.160.152.31:5050/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/onsport
@@ -212,16 +212,16 @@ http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=16853
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=84&extension=ts&play_token=waLxJFq8y
 
 #EXTINF:-1 group-title="Ngoại hạng anh", Super Sport 1
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1722
+http://ky-iptv.com:80/Ivica5274/juric4005/1400565.ts
 #EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+http://ky-iptv.com:80/Ivica5274/juric4005/1391036.ts
 #EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+http://ky-iptv.com:80/Ivica5274/juric4005/1391037.ts
 #EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+http://ky-iptv.com:80/Ivica5274/juric4005/1400564.ts
 #EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports HK UHD
 http://ky-iptv.com:80/Ivica5274/juric4005/2695078.ts
 
@@ -234,21 +234,27 @@ http://ky-iptv.com:80/Ivica5274/juric4005/222738
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/b7gfm41604074032.png", Sport Klub 4 Serbia
 http://ky-iptv.com:80/Ivica5274/juric4005/222739
 #EXTINF:-1 group-title="Sự kiện",Polsat Sport Premium 1 HD
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167782&extension=ts&play_token=FuFcwVWrsx
+#http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167782&extension=ts&play_token=FuFcwVWrsx
+http://ky-iptv.com:80/Ivica5274/juric4005/219110.ts
 #EXTINF:-1 group-title="Sự kiện", Polsat Sport Premium 2 HD
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167746&extension=ts&play_token=Xx9bD9JLKg
-#http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33487
+http://ky-iptv.com:80/Ivica5274/juric4005/219111.ts
+#http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167746&extension=ts&play_token=Xx9bD9JLKg
+
 #EXTINF:-1 group-title="Sự kiện", Polsat Sport Premium 3
-#http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/33486
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167784&extension=ts&play_token=I4vdQ1tDrX
+http://ky-iptv.com:80/Ivica5274/juric4005/219112.ts
+#http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167784&extension=ts&play_token=I4vdQ1tDrX
 #EXTINF:-1 tvg-name="801" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801
-http://14.234.155.6:1024/rtp/232.84.2.175:10858
+http://14.189.156.200:8989/rtp/232.84.2.175:10858
+#http://14.234.155.6:1024/rtp/232.84.2.175:10858
 #EXTINF:-1 tvg-name="802" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD
-http://14.234.155.6:1024/rtp/232.84.2.176:10864
+http://14.189.156.200:8989/rtp/232.84.2.176:10864
+#http://14.234.155.6:1024/rtp/232.84.2.176:10864
 #EXTINF:-1 tvg-name="803" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD
-http://14.234.155.6:1024/rtp/232.84.2.195:10954
+http://14.189.156.200:8989/rtp/232.84.2.195:10954
+#http://14.234.155.6:1024/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
-http://14.234.155.6:1024/rtp/232.84.2.196:10960
+http://14.189.156.200:8989/rtp/232.84.2.196:10960
+#http://14.234.155.6:1024/rtp/232.84.2.196:10960
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 2
