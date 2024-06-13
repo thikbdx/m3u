@@ -88,7 +88,39 @@ https://tth.vn/VTV91080p
 http://171.238.181.52:18080/307.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 http://171.238.181.52:18080/308.m3u8
+#---------------------------------------------------------
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/THVL1
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://hqth.me/vl1kb
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/THVL2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://hqth.me/vl2kb
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
+http://171.238.181.52:18080/304_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
+https://hqth.me/htvttkb
 
+#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://tth.vn/tv360plus1
+#https://hqth.me/tv360plus1
+#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://tth.vn/tv360plus2
+#https://hqth.me/tv360plus2
+#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://tth.vn/tv360plus3
+#https://hqth.me/tv360plus3
+#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://tth.vn/tv360plus4
 #---------------------------------------------------------
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/85.png", K+ CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -169,22 +201,6 @@ https://tth.vn/btv5hd
 
 #EXTINF:-1 group-title="Thể thao" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
 http://171.238.180.25:18080/304.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://tth.vn/tv360plus1
-#https://hqth.me/tv360plus1
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://tth.vn/tv360plus2
-#https://hqth.me/tv360plus2
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://tth.vn/tv360plus3
-#https://hqth.me/tv360plus3
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://tth.vn/tv360plus4
-#https://hqth.me/tv360plus4
 #------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Sự kiện"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
@@ -247,14 +263,14 @@ http://ky-iptv.com:80/Ivica5274/juric4005/219112.ts
 http://14.189.156.200:8989/rtp/232.84.2.175:10858
 #http://14.234.155.6:1024/rtp/232.84.2.175:10858
 #EXTINF:-1 tvg-name="802" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD
-http://14.189.156.200:8989/rtp/232.84.2.176:10864
-#http://14.234.155.6:1024/rtp/232.84.2.176:10864
+#http://14.189.156.200:8989/rtp/232.84.2.176:10864
+http://14.234.155.6:1024/rtp/232.84.2.176:10864
 #EXTINF:-1 tvg-name="803" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD
-http://14.189.156.200:8989/rtp/232.84.2.195:10954
-#http://14.234.155.6:1024/rtp/232.84.2.195:10954
+#http://14.189.156.200:8989/rtp/232.84.2.195:10954
+http://14.234.155.6:1024/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
-http://14.189.156.200:8989/rtp/232.84.2.196:10960
-#http://14.234.155.6:1024/rtp/232.84.2.196:10960
+#http://14.189.156.200:8989/rtp/232.84.2.196:10960
+http://14.234.155.6:1024/rtp/232.84.2.196:10960
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 2
@@ -561,9 +577,9 @@ https://tth.vn/animax
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
 http://dinhdong.ddns.net:13579/udp/225.1.1.135:30120
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito
-http://14.189.156.200:8989/rtp/232.84.3.222:11254
+http://14.234.155.6:1024/rtp/232.84.3.222:11254
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
-http://14.189.156.200:8989/rtp/232.84.2.144:10684
+http://14.234.155.6:1024/rtp/232.84.2.144:10684
 #EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png", BabyTV
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
@@ -571,13 +587,13 @@ http://14.189.156.200:8989/rtp/232.84.3.59:11698
 #EXTINF:-1 tvg-id="lovenature" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
-http://113.160.152.31:5050/rtp/232.84.3.226:11278
+http://14.234.155.6:1024/rtp/232.84.3.226:11278
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
 http://14.230.131.53:1024//rtp/232.84.3.225:11272
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
-http://14.189.156.200:8989/rtp/232.84.1.90:10398
+http://14.234.155.6:1024/rtp/232.84.1.90:10398
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC World News
-http://14.230.131.53:1024//rtp/232.84.3.224:11266
+http://14.230.131.53:1024/rtp/232.84.3.224:11266
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
@@ -623,7 +639,7 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
 http://14.189.156.200:8989/rtp/232.84.3.132:10528
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
-http://113.160.152.31:5050/rtp/232.84.3.219:11236
+http://14.234.155.6:1024/rtp/232.84.3.219:11236
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 https://hqth.me/axnkb
 #EXTINF:0 tvg-id="blueantent" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/L5yHTzj/Rock-Entertainment.png" ,Rock Entertainment
@@ -640,7 +656,8 @@ http://mykingtv.net:2082/gadget1k85/pass1k85/6990
 #EXTINF:-1 tvg-id="dmax" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 http://mykingtv.net:2082/gadget1k85/pass1k85/9973
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
-http://14.189.156.200:8989/rtp/232.84.3.64:11668
+hhttp://14.234.155.6:1024/rtp/232.84.3.64:11668
+
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ABC Australia
 #EXTVLCOPT:http-user-agent=VThanhTivi
 
