@@ -101,6 +101,13 @@ https://tth.vn/THVL2
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hqth.me/vl2kb
+#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://hqth.me/media-euro2024", Euro2024 Link 1
+https://hqth.me/Euro2024-FeedLink1
+#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://hqth.me/media-euro2024", Euro2024 Link 2
+https://hqth.me/Euro2024-FeedLink2
+#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://hqth.me/media-euro2024", Euro2024 Link 3 (HD)
+https://hqth.me/Euro2024-FeedLink3
+
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
 http://171.238.181.52:18080/304_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
