@@ -89,6 +89,24 @@ http://171.238.181.52:18080/307.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 http://171.238.181.52:18080/308.m3u8
 #---------------------------------------------------------
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
+https://live.pipitv.top/stream/channelid/605615234?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+https://live.pipitv.top/stream/channelid/681017258?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
+https://live.pipitv.top/stream/channelid/809837702?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+https://live.pipitv.top/stream/channelid/989913226?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
+https://live.pipitv.top/stream/channelid/60159943?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV THỂ THAO
+https://live.pipitv.top/stream/channelid/316575751?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1
+https://live.pipitv.top/stream/channelid/305067880?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2
+https://live.pipitv.top/stream/channelid/1133832693?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3
+https://live.pipitv.top/stream/channelid/1896517621?profile=pass
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/THVL1
@@ -101,15 +119,8 @@ https://tth.vn/THVL2
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hqth.me/vl2kb
-#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://hqth.me/media-euro2024", Euro2024 Link 1
-https://hqth.me/Euro2024-FeedLink1
-#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://hqth.me/media-euro2024", Euro2024 Link 2
-https://hqth.me/Euro2024-FeedLink2
-#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://hqth.me/media-euro2024", Euro2024 Link 3 (HD)
-https://hqth.me/Euro2024-FeedLink3
-
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
-http://171.238.181.52:18080/304_2.m3u8?AdaptiveType=HLS
+https://tth.vn/HTVTHETHAOFHD
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
 https://hqth.me/htvttkb
 
