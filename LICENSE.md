@@ -89,24 +89,15 @@ http://171.238.181.52:18080/307.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 http://171.238.181.52:18080/308.m3u8
 #---------------------------------------------------------
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-https://live.pipitv.top/stream/channelid/605615234?profile=pass
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-https://live.pipitv.top/stream/channelid/681017258?profile=pass
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-https://live.pipitv.top/stream/channelid/809837702?profile=pass
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
-https://live.pipitv.top/stream/channelid/989913226?profile=pass
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
-https://live.pipitv.top/stream/channelid/60159943?profile=pass
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV THỂ THAO
-https://live.pipitv.top/stream/channelid/316575751?profile=pass
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1
-https://live.pipitv.top/stream/channelid/305067880?profile=pass
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2
-https://live.pipitv.top/stream/channelid/1133832693?profile=pass
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3
-https://live.pipitv.top/stream/channelid/1896517621?profile=pass
+#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://interfase.info/public/logo/231213161025_UEFA-EURO-2024_znhec.png", UEFA EURO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita/index.m3u8?llc
+#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://interfase.info/public/logo/231213161025_UEFA-EURO-2024_znhec.png", UEFA EURO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita/index.m3u8
+#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://interfase.info/public/logo/231213161025_UEFA-EURO-2024_znhec.png", UEFA EURO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita_channel2/index.m3u8?llc
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/THVL1
