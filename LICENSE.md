@@ -16,7 +16,8 @@ http://s4.nihontv.net:21585/vtv1/index.m3u8
 http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD 50fps
 #EXTVLCOPT:http-user-agent=VMT
-http://171.238.180.25:18080/192.m3u8
+http://103.124.94.248/vtv2?token=live
+#http://171.238.180.25:18080/192.m3u8
 #http://str1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD 50fps
 http://s4.nihontv.net:21585/vtv3/index.m3u8
@@ -27,7 +28,8 @@ http://s4.nihontv.net:21585/vtv3/index.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 #EXTVLCOPT:http-user-agent=VMT
-http://171.238.180.25:18080/155.m3u8
+http://103.124.94.248/vtv3?token=live
+#http://171.238.180.25:18080/155.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://s4.nihontv.net:21585/vtv4/index.m3u8
@@ -98,6 +100,10 @@ https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita/index.m3u8
 #EXTINF:-1 group-title="EURO 2024" tvg-logo="https://interfase.info/public/logo/231213161025_UEFA-EURO-2024_znhec.png", UEFA EURO 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita_channel2/index.m3u8?llc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png",ITV1 | Tiếng Anh
+http://104228cef22.vws.vegacdn.vn/live/stream_9_fdd655e7.flv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One | Tiếng Anh
+http://1042249441e.vws.vegacdn.vn/live/stream_9_114826b3.flv
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/THVL1
