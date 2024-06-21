@@ -147,6 +147,7 @@ https://tth.vn/tv360plus4
 #http://b4tv.live:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/87.png", K+ SPORT1 HD
 #EXTVLCOPT:http-user-agent=dovietsy
+https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita/index.m3u8
 #https://edge2.laotv.la/live/K+Sport1/index.m3u8
 #http://vcis.nekocdn.xyz/ksport1/index.m3u8
 #http://hoatv001.ddns.net:9981/stream/mux/cd6193842d99b117648408e7b115b710?
@@ -519,7 +520,8 @@ https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 #-----------------------------------------------
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" group-logo="https://yt3.googleusercontent.com/8Wwe5BV_jrnDZ_dx1nB4OJTXF9n9bts9-RTC0fRj1VYiqd1lGQ_zk-VPNmHoN4MD8aUA6EJrwcE=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc1-hd/xemlai/${start}-${offset}", VTC1 HD
-https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/04.m3u8
+#https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc2-reidius-tv/xemlai/${start}-${offset}", VTC2
 https://1236573804.pop.vnptcdn.com/VTC2/playlist.m3u8
