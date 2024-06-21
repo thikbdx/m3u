@@ -21,9 +21,10 @@ http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=VMT
 http://103.124.94.248/vtv2?token=live
 #http://171.238.180.25:18080/192.m3u8
-#http://str1.cvtv.xyz/vtv2?token=live
+
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD 50fps
-http://s4.nihontv.net:21585/vtv3/index.m3u8
+http://103.124.94.248/vtv3?token=live
+#http://s4.nihontv.net:21585/vtv3/index.m3u8
 #http://str1.cvtv.xyz/VTV3HD?token=live
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
