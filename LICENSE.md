@@ -3,7 +3,8 @@
 #EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml"
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://image-service.gbcomcdn.com/UlYAXYuV6cXGnX9tlBd7k8wH4WI=/1920x0/filters:quality(90)/https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",COPA AMERICA 2024
-http://10422d7fd2c.vws.vegacdn.vn/live/stream_9_4e5bb468.flv
+http://103.124.94.248/fox?token=live
+#http://10422d7fd2c.vws.vegacdn.vn/live/stream_9_4e5bb468.flv
 #EXTINF:0 tvg-id="vv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #EXTVLCOPT:http-user-agent=VMT
@@ -95,19 +96,12 @@ http://171.238.181.52:18080/307.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 http://171.238.181.52:18080/308.m3u8
 #---------------------------------------------------------
-#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://interfase.info/public/logo/231213161025_UEFA-EURO-2024_znhec.png", UEFA EURO 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita/index.m3u8?llc
-#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://interfase.info/public/logo/231213161025_UEFA-EURO-2024_znhec.png", UEFA EURO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita/index.m3u8
-#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://interfase.info/public/logo/231213161025_UEFA-EURO-2024_znhec.png", UEFA EURO 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita_channel2/index.m3u8?llc
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png",ITV1 | Tiếng Anh
-http://104228cef22.vws.vegacdn.vn/live/stream_9_fdd655e7.flv
+http://103.124.94.248/itv1?token=live
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One | Tiếng Anh
-http://1042249441e.vws.vegacdn.vn/live/stream_9_114826b3.flv
+http://103.124.94.248/bbc1?token=live
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/THVL1
