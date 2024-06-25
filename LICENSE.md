@@ -736,8 +736,8 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/265.png", HTV CO.OP
 #https://1011154949.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
-http://171.238.180.25:18080/304.m3u8
-
+#http://171.238.180.25:18080/304.m3u8
+https://api.wintv.me/360/195/index.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tth.vn/htvcthuanviet
@@ -804,12 +804,12 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 #http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/983258697?profile=pass
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://dinhdong.ddns.net:13579/udp/225.1.3.16:30120
+https://api.wintv.me/360/219/index.m3u8
 #https://live.pipitv.top/stream/channelid/1322301157
 #http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1804627028?profile=pass
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://dinhdong.ddns.net:13579/udp/225.1.3.20:30120
+https://api.wintv.me/360/220/index.m3u8
 #https://live.pipitv.top/stream/channelid/545009077
 #http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1099105158?profile=pass
 #https://tth.vn/vinhlong4hd
