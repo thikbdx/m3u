@@ -4,6 +4,10 @@
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://image-service.gbcomcdn.com/UlYAXYuV6cXGnX9tlBd7k8wH4WI=/1920x0/filters:quality(90)/https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",COPA AMERICA 2024
 http://103.124.94.248/fox?token=live
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",COPA AMERICA 2024
+http://103.124.94.248/fs1?token=live
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://image-service.gbcomcdn.com/UlYAXYuV6cXGnX9tlBd7k8wH4WI=/1920x0/filters:quality(90)/https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
+http://103.124.94.248/spd?token=live
 #http://10422d7fd2c.vws.vegacdn.vn/live/stream_9_4e5bb468.flv
 #EXTINF:0 tvg-id="vv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
