@@ -607,26 +607,28 @@ https://tth.vn/VTC14
 https://tth.vn/VTC16
 #-------------------------------------------------
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD
-#http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/401989616?profile=pass
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://hoatv001.ddns.net:9981/stream/mux/17a2c595c0e78091ba9aac7dbd8934f1?
+#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD
 https://hqth.me/hbokb
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO (Dự Phòng)
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://s4.nihontv.net:21585/hbo/index.m3u8
-#http://hoatv001.ddns.net:9981/stream/mux/17a2c595c0e78091ba9aac7dbd8934f1?
-
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD Asia
 http://41.205.93.154/HBO/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Quốc tế", CINEMAX HD
 #http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1392070323?profile=pass
 https://hqth.me/cinemaxkb
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD (rtp)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/cinemax/index.m3u8
-#http://hoatv001.ddns.net:9981/stream/mux/3d933f79df3d477b9471a2eeda8656b3?
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD (rtp)
+http://hoatv001.ddns.net:9981/stream/mux/3d933f79df3d477b9471a2eeda8656b3?
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-http://170.254.18.106/CINEMAX/tracks-v1a1/mono.m3u8
+#http://170.254.18.106/CINEMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 #http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/84468598?profile=pass
 https://hqth.me/axnkb
@@ -637,29 +639,29 @@ http://hoatv001.ddns.net:9981/stream/mux/f619fe796448b873e5cdfdda975e6eb9?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tth.vn/animax
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
-http://dinhdong.ddns.net:13579/udp/225.1.1.135:30120
+http://hoatv001.ddns.net:9981/stream/mux/96f3fadf436f3e18e70a57f9ae5b98ce?
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito
-http://14.234.155.6:1024/rtp/232.84.3.222:11254
+
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
-http://14.234.155.6:1024/rtp/232.84.2.144:10684
+http://hoatv001.ddns.net:9981/stream/mux/efe0fdd5062857a2603a15ee0381ec1e?
 #EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png", BabyTV
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
-http://14.189.156.200:8989/rtp/232.84.3.59:11698
+http://hoatv001.ddns.net:9981/stream/mux/4afd3e6a4ab596f45ad6df044cde1552?
 #EXTINF:-1 tvg-id="lovenature" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
-http://14.234.155.6:1024/rtp/232.84.3.226:11278
+http://hoatv001.ddns.net:9981/stream/mux/fdc3e4053b706558ffb743593b7f47ac?
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
-http://14.230.131.53:1024//rtp/232.84.3.225:11272
+http://hoatv001.ddns.net:9981/stream/mux/4ab2b6be3316b338f69823e4f60c155c?
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
-http://14.234.155.6:1024/rtp/232.84.1.90:10398
+http://hoatv001.ddns.net:9981/stream/mux/48a64f506de932b72c1315a58d41eab3?
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC World News
-http://14.230.131.53:1024/rtp/232.84.3.224:11266
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
-
+http://hoatv001.ddns.net:9981/stream/mux/4ae710e2364e12dbd432e41f897b5faa?
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
@@ -682,7 +684,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="Quốc Tế" tvg-logo="https://cdn.antmediatv.xyz/216.png", Da Vinci HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://tthd.site/360/214/index.m3u8
+https://api.wintv.me/360/214/index.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
