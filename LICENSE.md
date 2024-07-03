@@ -3,11 +3,13 @@
 #EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml"
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://image-service.gbcomcdn.com/UlYAXYuV6cXGnX9tlBd7k8wH4WI=/1920x0/filters:quality(90)/https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",COPA AMERICA 2024
-http://103.124.94.248/fox?token=live
+http://103.170.123.44/fox?token=live
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",COPA AMERICA 2024
-http://103.124.94.248/fs1?token=live
+http://103.170.123.44/fs1?token=live
+
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://image-service.gbcomcdn.com/UlYAXYuV6cXGnX9tlBd7k8wH4WI=/1920x0/filters:quality(90)/https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
-http://103.124.94.248/spd?token=live
+http://103.170.123.44/spd?token=live
+
 #http://10422d7fd2c.vws.vegacdn.vn/live/stream_9_4e5bb468.flv
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" group-logo="https://yt3.googleusercontent.com/8Wwe5BV_jrnDZ_dx1nB4OJTXF9n9bts9-RTC0fRj1VYiqd1lGQ_zk-VPNmHoN4MD8aUA6EJrwcE=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc1-hd/xemlai/${start}-${offset}", COPA AMERICA 2024
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
