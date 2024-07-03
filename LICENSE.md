@@ -3,12 +3,13 @@
 #EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml"
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://image-service.gbcomcdn.com/UlYAXYuV6cXGnX9tlBd7k8wH4WI=/1920x0/filters:quality(90)/https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",COPA AMERICA 2024
-http://103.170.123.44/fox?token=live
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",COPA AMERICA 2024
-http://103.170.123.44/fs1?token=live
+http://103.101.162.86/fox?token=live
 
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",COPA AMERICA 2024
+#http://103.170.123.44/fs1?token=live
+http://103.101.162.86/fs1?token=live
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://image-service.gbcomcdn.com/UlYAXYuV6cXGnX9tlBd7k8wH4WI=/1920x0/filters:quality(90)/https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
-http://103.170.123.44/spd?token=live
+http://103.101.162.86/spd?token=live
 
 #http://10422d7fd2c.vws.vegacdn.vn/live/stream_9_4e5bb468.flv
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" group-logo="https://yt3.googleusercontent.com/8Wwe5BV_jrnDZ_dx1nB4OJTXF9n9bts9-RTC0fRj1VYiqd1lGQ_zk-VPNmHoN4MD8aUA6EJrwcE=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc1-hd/xemlai/${start}-${offset}", COPA AMERICA 2024
@@ -106,10 +107,9 @@ http://171.238.181.52:18080/308.m3u8
 #---------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png",ITV1 | Tiếng Anh
-http://103.124.94.248/itv1?token=live
-
+http://103.101.162.86/itv1?token=live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One | Tiếng Anh
-http://103.124.94.248/bbc1?token=live
+http://103.101.162.86/bbc1?token=live
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/THVL1
