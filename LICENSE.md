@@ -105,7 +105,12 @@ http://171.238.181.52:18080/307.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 http://171.238.181.52:18080/308.m3u8
 #---------------------------------------------------------
-
+#EXTINF:-1 tvg-id="spotv1" group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/298570.ts
+#EXTINF:-1 tvg-id="spotv2" group-title="Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://154.6.191.61:8070/live/e9cd5f24/079fd2c9/298571.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png",ITV1 | Tiếng Anh
 http://103.101.162.86/itv1?token=live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One | Tiếng Anh
