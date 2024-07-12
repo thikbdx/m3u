@@ -17,7 +17,6 @@ https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 
 #EXTINF:0 tvg-ihttps://wintv.fun/360/2/index.m3u8d="vv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
-#EXTVLCOPT:http-user-agent=VMT
 https://wintv.fun/360/2/index.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD 50fps
@@ -31,11 +30,11 @@ https://api.wintv.me/vtv1/index.m3u8
 http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD 50fps
 #EXTVLCOPT:http-user-agent=VMT
-http://103.170.123.44/vtv2?token=live
+http://p2.cvtv.xyz/vtv2?token=live
 #http://171.238.180.25:18080/192.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD 50fps
-http://103.170.123.44/vtv3?token=live
+http://p1.cvtv.xyz:8002/vtv3?token=live
 #http://s4.nihontv.net:21585/vtv3/index.m3u8
 
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
@@ -860,4 +859,4 @@ https://wintv.fun/360/220/index.m3u8
 #http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1099105158?profile=pass
 #https://tth.vn/vinhlong4hd
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/4PjmtVk/phuyentv.png", Phú Yên
-http://113.161.4.48:8080/phuyen/radio/index.m3u8
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
