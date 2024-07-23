@@ -2,6 +2,10 @@
 #EXTM3U url-tvg="http://hqth.me/epg" tvg-shift=0 m3uautoload=1"
 #EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml"
 
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1200px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
+http://p2.cvtv.xyz/es1?token=live
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1200px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
+http://p2.cvtv.xyz/es2?token=live
 #EXTINF:0 tvg-ihttps://wintv.fun/360/2/index.m3u8d="vv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 https://wintv.fun/360/2/index.m3u8
@@ -132,9 +136,8 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="EURO 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
-http://103.171.91.5:80/9xJVD4KDwN/jM7uHweaAv/68.ts
-#https://tth.vn/HTVTHETHAOFHD
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://wintv.fun/360/195/index.m3u8
 
 #EXTINF:-1 group-title="EURO 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -197,8 +200,8 @@ http://171.227.65.31:8889/rtp/239.12.251.189:5000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://api.wintv.me/vtvcab3/index.m3u8
 #http://hoatv001.ddns.net:9981/stream/mux/892b3d1af461c12cfc533d720742365c?
-#http://pcrtv.ddns.net:9981/stream/channelid/934929518?ticket=01C48B736FD536F480AD13F4F2814733B95654F9&profile=pass
-http://14.167.74.50:4000/rtp/232.84.3.242:11374
+http://pcrtv.ddns.net:9981/stream/channelid/934929518?ticket=01C48B736FD536F480AD13F4F2814733B95654F9&profile=pass
+#http://14.167.74.50:4000/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports mytv
 http://113.160.152.31:5050/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
@@ -212,7 +215,6 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
 https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -244,7 +246,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=168535&extension=ts&play_token=YeQrSUn75j
 #EXTINF:-1 tvg-id="spotv1" group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/298570.ts
+#http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/298570.ts
 #http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60448
 #EXTINF:-1 tvg-id="spotv1" group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -252,7 +254,7 @@ http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/298570.ts
 
 #EXTINF:-1 tvg-id="spotv2" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://154.6.191.61:8070/live/e9cd5f24/079fd2c9/298571.ts
+#http://154.6.191.61:8070/live/e9cd5f24/079fd2c9/298571.ts
 #http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/60482
 #EXTINF:-1 tvg-id="spotv2" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -273,16 +275,8 @@ http://ky-iptv.com:80/Ivica5274/juric4005/1391037.ts
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://ky-iptv.com:80/Ivica5274/juric4005/1400564.ts
 #EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports HK UHD
-http://ky-iptv.com:80/Ivica5274/juric4005/2695078.ts
+#http://ky-iptv.com:80/Ivica5274/juric4005/2695078.ts
 
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub.png", Sport Klub 1 Serbia
-http://ky-iptv.com:80/Ivica5274/juric4005/225587
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/axtu9e1604073980.png", Sport Klub 2 Serbia
-http://ky-iptv.com:80/Ivica5274/juric4005/225588
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0swmzk1604074014.png", Sport Klub 3 Serbia
-http://ky-iptv.com:80/Ivica5274/juric4005/222738
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/b7gfm41604074032.png", Sport Klub 4 Serbia
-http://ky-iptv.com:80/Ivica5274/juric4005/222739
 #EXTINF:-1 group-title="Sự kiện",Polsat Sport Premium 1 HD
 #http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167782&extension=ts&play_token=FuFcwVWrsx
 http://ky-iptv.com:80/Ivica5274/juric4005/219110.ts
@@ -310,33 +304,40 @@ https://liveh34.vtvcab.vn/hls/ONSPORT03/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://hqth.me/boxmovie1hd
+https://wintv.fun/360/159/index.m3u8
+
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://hqth.me/hollywoodhd
+
 #EXTINF:-1 tvg-id="inthebox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-https://tth.vn/intheboxhd
-#https://hqth.me/intheboxhd
+https://wintv.fun/360/235/index.m3u8
+
 #EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/boxhitshd
-#https://hqth.me/boxhits
+https://wintv.fun/360/239/index.m3u8
+
 #EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?
+#EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://hqth.me/musicbox
+https://wintv.fun/360/289/index.m3u8
+
 #EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/happykidshd
+https://wintv.fun/360/212/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
