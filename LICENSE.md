@@ -38,16 +38,22 @@ http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=46581
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=465811&extension=ts&play_token=TtwoE0JEXk
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://olympics.onlocationexp.com/paris2024/wp-content/uploads/2022/07/la_parisienne_ft_img-1024x1024.jpg", EURO SPORT 9
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=465812&extension=ts&play_token=QC7v7fXOAQ
+#EXTINF:-1 group-title="OLYMPIC 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/1200px-Logo_La_1_UHD_2024.svg.png",La 1 UHD
+http://p1.cvtv.xyz/1uhd?token=live
 #EXTINF:-1 group-title="OLYMPIC 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One
-http://de.cvtv.xyz:8080/bbc1?token=live
+http://p1.cvtv.xyz/bbc1?token=live
 #EXTINF:-1 group-title="OLYMPIC 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/1200px-BBC_Red_Button_2021.svg.png",BBC RB 1
-http://de.cvtv.xyz:8080/bbcrb?token=live
+http://p1.cvtv.xyz/bbcrb?token=live
 #EXTINF:-1 group-title="OLYMPIC 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png",NBC
 http://p1.cvtv.xyz/nbc?token=live
 #EXTINF:-1 group-title="OLYMPIC 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png",HOY IBC
 http://p1.cvtv.xyz/ibc?token=live
-#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://olympics.onlocationexp.com/paris2024/wp-content/uploads/2022/07/la_parisienne_ft_img-1024x1024.jpg", M4 SPORT
-http://newlife3.wanicelife.com:8880/live/D12m2555/52433416/31298.ts
+#EXTINF:-1 group-title="OLYMPIC 2024" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
+http://p1.cvtv.xyz/c5?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
+http://p1.cvtv.xyz/c5p?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv16_20180904.png",CCTV-16
+http://p1.cvtv.xyz/c16?token=live
 
 #EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live1.png",Paris Live 1
 http://p2.cvtv.xyz:82/olym1?token=live
