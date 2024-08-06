@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://ia902703.us.archive.org/34/items/eurosport-4-k/Eurosport_4K.png",Eurosport 4K
 http://p1.cvtv.xyz/es4k?token=live
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1200px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
-http://p2.cvtv.xyz/es4k?token=live
+http://p1.cvtv.xyz/es1?token=live
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=143&extension=ts&play_token=exu9fIzDRE
@@ -57,7 +57,44 @@ http://p1.cvtv.xyz/c5?token=live
 http://p1.cvtv.xyz/c5p?token=live
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv16_20180904.png",CCTV-16
 http://p1.cvtv.xyz/c16?token=live
-
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277889570%27&EntityType=%27Item%27&EntityId=%27469467%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH01
+http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed1mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277889550%27&EntityType=%27Item%27&EntityId=%27469475%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH02
+http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed2mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277889576%27&EntityType=%27Item%27&EntityId=%27469700%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH03
+http://vnes01.duckdns.org:1234/stream/olympics11/olympicfeed3mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904417%27&EntityType=%27Item%27&EntityId=%27471727%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH04
+http://vnes01.duckdns.org:1234/stream/olympics11/olympicfeed4mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904421%27&EntityType=%27Item%27&EntityId=%27471662%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH05
+http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed5mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904425%27&EntityType=%27Item%27&EntityId=%27471729%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH06
+http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed6mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904429%27&EntityType=%27Item%27&EntityId=%27471661%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH07
+http://vnes01.duckdns.org:1234/stream/olympics11/olympicfeed7mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904433%27&EntityType=%27Item%27&EntityId=%27471666%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH08
+http://vnes01.duckdns.org:1234/stream/olympics11/olympicfeed8mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904437%27&EntityType=%27Item%27&EntityId=%27471724%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH09
+http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed9mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904441%27&EntityType=%27Item%27&EntityId=%27471725%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH10
+http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed10mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904445%27&EntityType=%27Item%27&EntityId=%27471739%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH11
+http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed11mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904449%27&EntityType=%27Item%27&EntityId=%27471742%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH12
+http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed12mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904453%27&EntityType=%27Item%27&EntityId=%27471948%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH13
+http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed13mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904457%27&EntityType=%27Item%27&EntityId=%27471959%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH14
+http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed14mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904463%27&EntityType=%27Item%27&EntityId=%27471962%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH15
+http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed15mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904467%27&EntityType=%27Item%27&EntityId=%27472026%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH16
+http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed16mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904471%27&EntityType=%27Item%27&EntityId=%27472215%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH17
+http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed17mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904485%27&EntityType=%27Item%27&EntityId=%27472216%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH18
+http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed18mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904489%27&EntityType=%27Item%27&EntityId=%27472217%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH19
+http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed19mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
 #EXTINF:0 tvg-ihttps://wintv.fun/360/2/index.m3u8d="vv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 https://wintv.fun/360/2/index.m3u8
