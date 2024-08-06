@@ -206,10 +206,10 @@ https://wintv.fun/360/157/index.m3u8
 #---------------------------------------------------------
 #EXTINF:-1 tvg-id="spotv1" group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/298570.ts
+#http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/298570.ts
 #EXTINF:-1 tvg-id="spotv2" group-title="Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://154.6.191.61:8070/live/e9cd5f24/079fd2c9/298571.ts
+#http://154.6.191.61:8070/live/e9cd5f24/079fd2c9/298571.ts
 #EXTINF:-1 group-title=" Thể thao quốc tế" tvg-logo="https://www.delta.nl/media/1657/ziggo-sport-voetbal-delta.png?anchor=center&mode=crop&width=300&rnd=132603728886170000",Ziggo Sport Voetbal
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442051&extension=ts&play_token=ok4kbOxSXU
@@ -272,7 +272,8 @@ https://wintv.fun/360/2458/index.m3u8
 #---------------------------------------------
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://api.wintv.me/vtvcab6/index.m3u8
+http://m3u.at/Onsport-plus
+#https://api.wintv.me/vtvcab6/index.m3u8
 #https://tth.vn/onsportplus
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -297,7 +298,8 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://api.wintv.me/vtvcab18/index.m3u8
+http://m3u.at/ONSPORT-NEWS
+#https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?
