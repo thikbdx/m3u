@@ -11,30 +11,29 @@ http://p1.cvtv.xyz/es1?token=live
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=143&extension=ts&play_token=exu9fIzDRE
 
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1200px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
-http://p1.cvtv.xyz/es4k?token=live
+http://p1.cvtv.xyz/es2?token=live
 
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png", Eurosport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163972&extension=ts&play_token=CJx7sVJigY
 #EXTINF:-1 group-title="OLYMPIC 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 3
-http://p2.cvtv.xyz/es3?token=live
+http://p1.cvtv.xyz/es3?token=live
+#http://p2.cvtv.xyz/es3?token=live
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://olympics.onlocationexp.com/paris2024/wp-content/uploads/2022/07/la_parisienne_ft_img-1024x1024.jpg", EURO SPORT 3
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=465815&extension=ts&play_token=PglrszsO6Z
 #EXTINF:-1 group-title="OLYMPIC 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 4
-http://p2.cvtv.xyz/es4?token=live
+http://p1.cvtv.xyz/es4?token=live
+#http://p2.cvtv.xyz/es4?token=live
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://olympics.onlocationexp.com/paris2024/wp-content/uploads/2022/07/la_parisienne_ft_img-1024x1024.jpg", EURO SPORT 4
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=465816&extension=ts&play_token=q1j2NRHCiT
 #EXTINF:-1 group-title="OLYMPIC 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 5
-http://de.cvtv.xyz:8080/es5?token=live
+http://p1.cvtv.xyz/es5?token=live
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://olympics.onlocationexp.com/paris2024/wp-content/uploads/2022/07/la_parisienne_ft_img-1024x1024.jpg", EURO SPORT 5
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=465817&extension=ts&play_token=miJ70ChoZI
 #EXTINF:-1 group-title="OLYMPIC 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 6
-http://p2.cvtv.xyz/es5?token=live
+http://p1.cvtv.xyz/es6?token=live
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://olympics.onlocationexp.com/paris2024/wp-content/uploads/2022/07/la_parisienne_ft_img-1024x1024.jpg", EURO SPORT 6
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=465818&extension=ts&play_token=tpOtTFw5BJ
-#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://olympics.onlocationexp.com/paris2024/wp-content/uploads/2022/07/la_parisienne_ft_img-1024x1024.jpg", EURO SPORT 6
-http://p1.cvtv.xyz/es6?token=live
-
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://olympics.onlocationexp.com/paris2024/wp-content/uploads/2022/07/la_parisienne_ft_img-1024x1024.jpg", EURO SPORT 7
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=465810&extension=ts&play_token=bxYdZnHErB
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://olympics.onlocationexp.com/paris2024/wp-content/uploads/2022/07/la_parisienne_ft_img-1024x1024.jpg", EURO SPORT 8
@@ -665,7 +664,7 @@ https://api.wintv.me/vtc4/index.m3u8
 https://api.wintv.me/vtc5/index.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://wintv.fun/360/200/index.m3u8
+https://api.wintv.me/360/200/index.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD - TodayTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/vtc7/index.m3u8
@@ -677,7 +676,7 @@ https://api.wintv.me/vtc8/index.m3u8
 https://api.wintv.me/vtc9/index.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://wintv.fun/360/204/index.m3u8
+https://api.wintv.me/360/204/index.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/vtc11/index.m3u8
@@ -698,7 +697,7 @@ https://tth.vn/VTC2
 https://api.wintv.me/vtc3/index.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc3-hd/xemlai/${start}-${offset}", VTC3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://hoatv001.ddns.net:9981/stream/mux/86412017b3e705b78e6c6363b34a3407?
+#http://hoatv001.ddns.net:9981/stream/mux/86412017b3e705b78e6c6363b34a3407?
 
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc4-yeah1-family-hd/xemlai/${start}-${offset}", VTC4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -732,6 +731,7 @@ https://api.wintv.me/vtc9/index.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc10-1/xemlai/${start}-${offset}", VTC10 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/360/204/index.m3u8
+
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc11-kids-tv/xemlai/${start}-${offset}", VTC11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://tth.vn/VTC11
@@ -927,21 +927,21 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 #https://1011154949.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
 #http://171.238.180.25:18080/304.m3u8
-https://wintv.fun/360/195/index.m3u8
+https://api.wintv.me/360/195/index.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
-https://wintv.fun/360/14/index.m3u8
+https://api.wintv.me/360/14/index.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC"  group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
-https://wintv.fun/360/133/index.m3u8
+https://api.wintv.me/360/133/index.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC"  group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
-https://wintv.fun/360/11/index.m3u8
+https://api.wintv.me/360/11/index.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC"  group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
-https://wintv.fun/360/15/index.m3u8
+https://api.wintv.me/360/15/index.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
-https://wintv.fun/360/12/index.m3u8
+https://api.wintv.me/360/12/index.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC"  group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
-https://wintv.fun/360/13/index.m3u8
+https://api.wintv.me/360/13/index.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC"  group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
-https://wintv.fun/360/132/index.m3u8
+https://api.wintv.me/360/132/index.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -977,13 +977,13 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 #http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/983258697?profile=pass
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://wintv.fun/360/219/index.m3u8
+https://api.wintv.me/360/219/index.m3u8
 #https://live.pipitv.top/stream/channelid/1322301157
 #http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1804627028?profile=pass
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/40.ts
-https://wintv.fun/360/220/index.m3u8
+https://api.wintv.me/360/220/index.m3u8
 #https://live.pipitv.top/stream/channelid/545009077
 #http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1099105158?profile=pass
 
