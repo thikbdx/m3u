@@ -51,11 +51,12 @@ http://p1.cvtv.xyz/nbc?token=live
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png",HOY IBC
 http://p1.cvtv.xyz/ibc?token=live
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
-http://p1.cvtv.xyz/c5?token=live
+#http://p1.cvtv.xyz/c5?token=live
+
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
-http://p1.cvtv.xyz/c5p?token=live
+#http://p1.cvtv.xyz/c5p?token=live
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv16_20180904.png",CCTV-16
-http://p1.cvtv.xyz/c16?token=live
+#http://p1.cvtv.xyz/c16?token=live
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277889570%27&EntityType=%27Item%27&EntityId=%27469467%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH01
 http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed1mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277889550%27&EntityType=%27Item%27&EntityId=%27469475%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH02
@@ -217,26 +218,21 @@ https://wintv.fun/360/195/index.m3u8
 
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://pcrtv.ddns.net:9981/stream/channelid/461009656?ticket=DBFCA1149A038916FF67E3902AF7A69739F17CF8&profile=pass
-#https://tth.vn/tv360plus1
 https://api.wintv.me/360/2554/index.m3u8
+
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #http://pcrtv.ddns.net:9981/stream/channelid/1471429487?ticket=6735231C26E97ED4D03C908BDFA22B8590E5DE42&profile=pass
 https://api.wintv.me/360/1/index.m3u8
-#https://tth.vn/tv360plus2
-#https://hqth.me/tv360plus2
+
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#https://live-bd2.tv360.vn/nEUEUOckp4z5Bq4zanHWLw/1721351700/manifest/Su_Kien_3/playlist_1080p.m3u8?manifestfilter=video_bitrate:1-5767168&uid=19680
 https://api.wintv.me/360/148/index.m3u8
-#https://tth.vn/tv360plus3
-#https://hqth.me/tv360plus3
+
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#https://live-bd2.tv360.vn/ZPYos_AFFt1xYFO3dimmBQ/1721352102/manifest/Su_Kien_4/playlist_1080p.m3u8?manifestfilter=video_bitrate:1-5767168&uid=19680
 https://api.wintv.me/360/2458/index.m3u8
-#https://tth.vn/tv360plus4
+
 #---------------------------------------------------------
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/85.png", K+ CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
