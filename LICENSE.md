@@ -103,13 +103,13 @@ https://api.wintv.me/360/157/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://api.wintv.me/360/157/index.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/43.m3u8
-
-#---------------------------------------------------------
+#--------------------------------------------------------
 #EXTINF:-1 tvg-id="spotv1" group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/298570.ts
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/165105.ts
 #EXTINF:-1 tvg-id="spotv2" group-title="Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298506.ts
 #http://154.6.191.61:8070/live/e9cd5f24/079fd2c9/298571.ts
 #EXTINF:-1 group-title=" Thể thao quốc tế" tvg-logo="https://www.delta.nl/media/1657/ziggo-sport-voetbal-delta.png?anchor=center&mode=crop&width=300&rnd=132603728886170000",Ziggo Sport Voetbal
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -117,7 +117,66 @@ http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=44205
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport Select
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442053&extension=ts&play_token=75becWJi0T
+#EXTINF:-1 group-title="Thể thao quốc tế"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
+#EXTINF:-1 group-title="Thể thao quốc tế", Super Sport 1
+http://ky-iptv.com:80/Ivica5274/juric4005/1400565.ts
+#EXTINF:-1 group-title="Thể thao quốc tế",Astor Sport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157556.ts
+#http://ky-iptv.com:80/Ivica5274/juric4005/1391036.ts
+#EXTINF:-1 group-title="Thể thao quốc tế",Astor  Sport 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157557.ts
+#http://ky-iptv.com:80/Ivica5274/juric4005/1391037.ts
+#EXTINF:-1 group-title="Thể thao quốc tế",Astor  Sport 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#http://ky-iptv.com:80/Ivica5274/juric4005/1400564.ts
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157558.ts
+#EXTINF:-1  group-title="Thể thao quốc tế",CANAL+ SPORT FHD
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/115677
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
+http://p1.cvtv.xyz/cp1?token=live
+#EXTINF:-1  group-title="Thể thao quốc tế",CANAL+ SPORT 2 FHD
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/115678
+#EXTINF:-1  group-title="Thể thao quốc tế",CANAL+ SPORT 5 FHD
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/115681
+#EXTINF:-1  group-title="Thể thao quốc tế", SuperSport Premier League
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/11642
+#EXTINF:-1,NO: V Sport +
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298452.ts
+#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 1 FHD
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119325
+#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 2 FHD
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119327
+#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 3 FHD
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119329
+#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 4 FHD
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119331
+#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 5 FHD
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119333
+#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 6 FHD
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119335
+#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 7 FHD
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119337
+#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 8 FHD
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119339
+#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 9 4K
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119340
+#EXTINF:-1  group-title="Thể thao quốc tế",Digi Sport 1 FHD
+http://tvboxplat.dynedns.ovh:80/live/kam108/087561965948/141915.ts
+#EXTINF:-1  group-title="Thể thao quốc tế",Digi Sport 2 FHD
+http://tvboxplat.dynedns.ovh:80/kam108/087561965948/141917 Digi Sport 2 FHD
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=143&extension=ts&play_token=exu9fIzDRE
+
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png", Eurosport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163972&extension=ts&play_token=CJx7sVJigY
+#---------------------------------------------------------
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.wintv.me/360/195/index.m3u8
@@ -193,63 +252,12 @@ https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 
 #------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="Nước ngoài"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 group-title="Ngoại hạng anh", Super Sport 1
-http://ky-iptv.com:80/Ivica5274/juric4005/1400565.ts
-#EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://ky-iptv.com:80/Ivica5274/juric4005/1391036.ts
-#EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://ky-iptv.com:80/Ivica5274/juric4005/1391037.ts
-#EXTINF:-1 group-title="Ngoại hạng anh",Super Sport 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://ky-iptv.com:80/Ivica5274/juric4005/1400564.ts
-
-#EXTINF:-1  group-title="Nước ngoài",CANAL+ SPORT FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/115677
-#EXTINF:-1  group-title="Nước ngoài",CANAL+ SPORT 2 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/115678
-#EXTINF:-1  group-title="Nước ngoài",CANAL+ SPORT 5 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/115681
-
-#EXTINF:-1  group-title="Nước ngoài",beIN SPORTS 1 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119325
-#EXTINF:-1  group-title="Nước ngoài",beIN SPORTS 2 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119327
-#EXTINF:-1  group-title="Nước ngoài",beIN SPORTS 3 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119329
-#EXTINF:-1  group-title="Nước ngoài",beIN SPORTS 4 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119331
-#EXTINF:-1  group-title="Nước ngoài",beIN SPORTS 5 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119333
-#EXTINF:-1  group-title="Nước ngoài",beIN SPORTS 6 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119335
-#EXTINF:-1  group-title="Nước ngoài",beIN SPORTS 7 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119337
-#EXTINF:-1  group-title="Nước ngoài",beIN SPORTS 8 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119339
-#EXTINF:-1  group-title="Nước ngoài",beIN SPORTS 9 4K
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119340
-#EXTINF:-1  group-title="Nước ngoài",Digi Sport 1 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/141915
-#EXTINF:-1  group-title="Nước ngoài",Digi Sport 2 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/141917 Digi Sport 2 FHD
-#EXTINF:-1 group-title="Nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=143&extension=ts&play_token=exu9fIzDRE
-
-#EXTINF:-1 group-title="Nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png", Eurosport 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163972&extension=ts&play_token=CJx7sVJigY
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 2
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 2
 https://liveh34.vtvcab.vn/hls/ONSPORT02/index.m3u8
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 3
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 3
 https://liveh34.vtvcab.vn/hls/ONSPORT03/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 4
 https://liveh34.vtvcab.vn/hls/ONSPORT04/index.m3u8
@@ -593,9 +601,9 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
 #http://hoatv001.ddns.net:9981/stream/mux/17a2c595c0e78091ba9aac7dbd8934f1?
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD
 https://hqth.me/hbokb
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO (Dự Phòng)
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO (Dự Phòng)
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://103.183.118.124:1234/stream/hbo/stream.m3u8?u=admin&p=52a7af49ea219368f3912d7f0f622616813b46d32aa4ee8e10eab6f5a04c2a32
+https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
 #http://103.183.118.124:1234/stream/hbo/stream.m3u8
 #http://s4.nihontv.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD Asia
@@ -652,7 +660,7 @@ http://103.183.118.124:1234/stream/bbccbeebies/stream.m3u8
 #http://hoatv001.ddns.net:9981/stream/mux/48a64f506de932b72c1315a58d41eab3?
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC World News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
 
