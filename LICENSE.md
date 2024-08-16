@@ -128,6 +128,9 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:31:66:65&stream=1608071&e
 http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/2881.ts
 #EXTINF:-1 group-title="Thể thao quốc tế", Super Sport 1
 http://ky-iptv.com:80/Ivica5274/juric4005/1400565.ts
+#EXTINF:-1 group-title="Thể thao quốc tế", Astor Sport 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/146068
 #EXTINF:-1 group-title="Thể thao quốc tế",Astor Sport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157556.ts
@@ -141,41 +144,62 @@ http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157557.ts
 #http://ky-iptv.com:80/Ivica5274/juric4005/1400564.ts
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157558.ts
 #EXTINF:-1  group-title="Thể thao quốc tế",CANAL+ SPORT FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/115677
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/291175
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
 http://p1.cvtv.xyz/cp1?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png",NBC
 http://p1.cvtv.xyz/nbc?token=live
-#EXTINF:-1  group-title="Thể thao quốc tế",CANAL+ SPORT 2 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/115678
+#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 1
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/1735
+#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 2
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/1737
+#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 3
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/1739
+#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 4
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/7450
+#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 5
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/300982
+#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 4K
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/302332
+#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports Haber
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/7448
 #EXTINF:-1  group-title="Thể thao quốc tế",CANAL+ SPORT 5 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/115681
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/291178
 #EXTINF:-1  group-title="Thể thao quốc tế", SuperSport Premier League
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/11642
 #EXTINF:-1,NO: V Sport +
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298452.ts
-#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 1 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119325
-#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 2 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119327
-#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 3 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119329
-#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 4 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119331
-#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 5 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119333
-#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 6 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119335
-#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 7 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119337
-#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 8 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119339
-#EXTINF:-1  group-title="Thể thao quốc tế",beIN SPORTS 9 4K
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/119340
+
 #EXTINF:-1  group-title="Thể thao quốc tế",Digi Sport 1 FHD
-http://tvboxplat.dynedns.ovh:80/live/kam108/087561965948/141915.ts
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/71457
 #EXTINF:-1  group-title="Thể thao quốc tế",Digi Sport 2 FHD
-http://tvboxplat.dynedns.ovh:80/kam108/087561965948/141917 Digi Sport 2 FHD
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71459.m3u8
+#EXTINF:-1  group-title="Thể thao quốc tế,NO: V Sport 1
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/264451
+#EXTINF:-1  group-title="Thể thao quốc tế,NO: V Sport 2
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/304242
+#EXTINF:-1  group-title="Thể thao quốc tế,NO: V Sport 3
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/304241
+#EXTINF:-1  group-title="Thể thao quốc tế,DK: V Sport Ultra
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/298452
+#EXTINF:-1  group-title="Thể thao quốc tế,TH: True Premiere Football 1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162591.ts
+#EXTINF:-1  group-title="Thể thao quốc tế,TH: True Premiere Football 2
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/162592
+#EXTINF:-1,TH: True Premiere Football 3
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/165101
+#EXTINF:-1  group-title="Thể thao quốc tế,TH: True Premiere Football 4
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/162593
+#EXTINF:-1  group-title="Thể thao quốc tế,TH: True Premiere Football 5
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/145033
+EXTINF:-1 group-title="Thể thao quốc tế,HK: Now HK Sports 4K 1
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/304101
+#EXTINF:-1 group-title="Thể thao quốc tế,HK: Now HK Sports Prime
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/304088
+#EXTINF:-1 group-title="Thể thao quốc tế,HK: Now Sports 1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304099.m3u8
+#EXTINF:-1 group-title="Thể thao quốc tế,HK: Now Sports 2
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/304098
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=143&extension=ts&play_token=exu9fIzDRE
