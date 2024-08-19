@@ -114,9 +114,13 @@ http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298506.ts
 #EXTINF:-1 group-title=" Thể thao quốc tế" tvg-logo="https://www.delta.nl/media/1657/ziggo-sport-voetbal-delta.png?anchor=center&mode=crop&width=300&rnd=132603728886170000",Ziggo Sport Voetbal
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442051&extension=ts&play_token=ok4kbOxSXU
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport Select
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport tennis
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442053&extension=ts&play_token=75becWJi0T
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
+http://p1.cvtv.xyz/E1?token=live
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
+http://p1.cvtv.xyz/E2?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -127,10 +131,10 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:31:66:65&stream=1608071&e
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/2881.ts
 #EXTINF:-1 group-title="Thể thao quốc tế", Super Sport 1
-http://ky-iptv.com:80/Ivica5274/juric4005/1400565.ts
+http://ky-iptv.com:80/live/Ivica5274/juric4005/1400565.ts
 #EXTINF:-1 group-title="Thể thao quốc tế", Astor Sport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/146068
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/146068.ts
 #EXTINF:-1 group-title="Thể thao quốc tế",Astor Sport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157556.ts
@@ -141,72 +145,56 @@ http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157557.ts
 #http://ky-iptv.com:80/Ivica5274/juric4005/1391037.ts
 #EXTINF:-1 group-title="Thể thao quốc tế",Astor  Sport 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://ky-iptv.com:80/Ivica5274/juric4005/1400564.ts
+#http://ky-iptv.com:80/live/Ivica5274/juric4005/1400564.ts
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157558.ts
 #EXTINF:-1  group-title="Thể thao quốc tế",CANAL+ SPORT FHD
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/291175
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/291175.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
 http://p1.cvtv.xyz/cp1?token=live
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", CANAL+ FOOT
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=113826&extension=ts&play_token=scNVJ1HLmF
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png",NBC
 http://p1.cvtv.xyz/nbc?token=live
 #EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 1
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/1735
-#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 2
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/1737
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1735.ts
 #EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 3
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/1739
-#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 4
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/7450
-#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 5
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/300982
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1739.ts
 #EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 4K
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/302332
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/302332.ts
 #EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports Haber
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/7448
 #EXTINF:-1  group-title="Thể thao quốc tế",CANAL+ SPORT 5 FHD
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/291178
 #EXTINF:-1  group-title="Thể thao quốc tế", SuperSport Premier League
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/11642
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/11642.ts
 #EXTINF:-1,NO: V Sport +
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298452.ts
 
 #EXTINF:-1  group-title="Thể thao quốc tế",Digi Sport 1 FHD
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/71457
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71457.ts
 #EXTINF:-1  group-title="Thể thao quốc tế",Digi Sport 2 FHD
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71459.m3u8
-#EXTINF:-1  group-title="Thể thao quốc tế,NO: V Sport 1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71459.ts
+#EXTINF:-1  group-title="Thể thao quốc tế",NO: V Sport 1
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/264451
-#EXTINF:-1  group-title="Thể thao quốc tế,NO: V Sport 2
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/304242
-#EXTINF:-1  group-title="Thể thao quốc tế,NO: V Sport 3
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/304241
-#EXTINF:-1  group-title="Thể thao quốc tế,DK: V Sport Ultra
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/298452
+
+#EXTINF:-1  group-title="Thể thao quốc tế" ,DK: V Sport Ultra
+http://iptvtree.net:8080/liveGenIptv2023/XkgMCdR7PJzShK5m/298452.ts
 #EXTINF:-1  group-title="Thể thao quốc tế,TH: True Premiere Football 1
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162591.ts
 #EXTINF:-1  group-title="Thể thao quốc tế,TH: True Premiere Football 2
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/162592
-#EXTINF:-1,TH: True Premiere Football 3
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/165101
-#EXTINF:-1  group-title="Thể thao quốc tế,TH: True Premiere Football 4
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/162593
-#EXTINF:-1  group-title="Thể thao quốc tế,TH: True Premiere Football 5
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/145033
-EXTINF:-1 group-title="Thể thao quốc tế,HK: Now HK Sports 4K 1
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/304101
-#EXTINF:-1 group-title="Thể thao quốc tế,HK: Now HK Sports Prime
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/304088
 #EXTINF:-1 group-title="Thể thao quốc tế,HK: Now Sports 1
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304099.m3u8
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304099.ts
 #EXTINF:-1 group-title="Thể thao quốc tế,HK: Now Sports 2
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/304098
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304098.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=143&extension=ts&play_token=exu9fIzDRE
-
+#http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=143&extension=ts&play_token=exu9fIzDRE
+http://p1.cvtv.xyz/es1?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png", Eurosport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163972&extension=ts&play_token=CJx7sVJigY
+http://p1.cvtv.xyz/es2?token=live
+#http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163972&extension=ts&play_token=CJx7sVJigY
 #---------------------------------------------------------
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -309,13 +297,15 @@ https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?
-
+#https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://api.wintv.me/360/159/index.m3u8
 https://thvip.site/360/159/index.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
+https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -332,7 +322,10 @@ https://thvip.site/360/239/index.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?
+#https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?
+#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
+
 #EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -341,6 +334,8 @@ https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
+https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://wintv.fun/360/212/index.m3u8
