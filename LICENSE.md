@@ -188,12 +188,12 @@ http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304099.ts
 #EXTINF:-1 group-title="Thể thao quốc tế,HK: Now Sports 2
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304098.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 #http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=143&extension=ts&play_token=exu9fIzDRE
 http://p1.cvtv.xyz/es1?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png", Eurosport 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://p1.cvtv.xyz/es2?token=live
+
 #http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163972&extension=ts&play_token=CJx7sVJigY
 #---------------------------------------------------------
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
@@ -216,7 +216,11 @@ https://api.wintv.me/360/148/index.m3u8
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://api.wintv.me/360/2458/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://khanggtivi.xyz/khanggtivi/khanggtivi/kubolive/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LiveTV", KuboLive 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://khanggtivi.xyz/khanggtivi/khanggtivi/kubolive2/index.m3u8
 
 #---------------------------------------------
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
