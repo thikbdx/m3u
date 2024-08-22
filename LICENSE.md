@@ -132,22 +132,22 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:31:66:65&stream=1608071&e
 http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/2881.ts
 #EXTINF:-1 group-title="Thể thao quốc tế", Super Sport 1
 http://ky-iptv.com:80/live/Ivica5274/juric4005/1400565.ts
-#EXTINF:-1 group-title="Thể thao quốc tế", Astor Sport 1
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY: Astro Arena FHD" tvg-logo="" group-title="Thể thao quốc tế",MY: Astro FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/146068.ts
-#EXTINF:-1 group-title="Thể thao quốc tế",Astor Sport 2
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Supersport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",MY: Astro Supersport 2 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157556.ts
 #http://ky-iptv.com:80/Ivica5274/juric4005/1391036.ts
-#EXTINF:-1 group-title="Thể thao quốc tế",Astor  Sport 3
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="MY: Astro Supersport 3 FHD" tvg-logo="" group-title="Thể thao quốc tế",MY: Astro Supersport 3 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157557.ts
 #http://ky-iptv.com:80/Ivica5274/juric4005/1391037.ts
-#EXTINF:-1 group-title="Thể thao quốc tế",Astor  Sport 4
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="MY: Astro Supersport 4 FHD" tvg-logo="" group-title="Thể thao quốc tế",MY: Astro Supersport 4 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://ky-iptv.com:80/live/Ivica5274/juric4005/1400564.ts
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157558.ts
-#EXTINF:-1  group-title="Thể thao quốc tế",CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="FR:* Canal+ Sport FHD" tvg-logo="http://kb007.xyz/picons/canalplussport.png" group-title="Thể thao quốc tế", Canal+ Sport FHD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/291175.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
 http://p1.cvtv.xyz/cp1?token=live
@@ -156,36 +156,38 @@ http://p1.cvtv.xyz/cp1?token=live
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=113826&extension=ts&play_token=scNVJ1HLmF
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png",NBC
 http://p1.cvtv.xyz/nbc?token=live
-#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 1
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: beIN Sports 1 HD" tvg-logo="http://ipro.tv/picons/beinsports1.png" group-title="Thể thao quốc tế",beIN Sports 1 HD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1735.ts
-#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 3
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR:* Bein Sports 3 FHD" tvg-logo="http://kb007.xyz/picons/beinsports3.png" group-title="Thể thao quốc tế", Bein Sports 3 FHD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1739.ts
-#EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports 4K
+#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="MY: Bein Sports Max HD" tvg-logo="" group-title="Thể thao quốc tế", Bein Sports  
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/302332.ts
 #EXTINF:-1  group-title="Thể thao quốc tế",TR: beIN Sports Haber
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/7448
 #EXTINF:-1  group-title="Thể thao quốc tế",CANAL+ SPORT 5 FHD
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/291178
-#EXTINF:-1  group-title="Thể thao quốc tế", SuperSport Premier League
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="AF: SuperSport Premier League HD" tvg-logo="http://kb007.xyz/picons/premp.png" group-title="Thể thao quốc tế",SuperSport Premier League HD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/11642.ts
+
+EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế", Digi Sport 1 FHD
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71457.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế", Digi Sport 2 FHD
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71459.ts
 #EXTINF:-1,NO: V Sport +
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298452.ts
-
-#EXTINF:-1  group-title="Thể thao quốc tế",Digi Sport 1 FHD
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71457.ts
-#EXTINF:-1  group-title="Thể thao quốc tế",Digi Sport 2 FHD
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71459.ts
 #EXTINF:-1  group-title="Thể thao quốc tế",NO: V Sport 1
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/264451
-
-#EXTINF:-1  group-title="Thể thao quốc tế" ,DK: V Sport Ultra
-http://iptvtree.net:8080/liveGenIptv2023/XkgMCdR7PJzShK5m/298452.ts
-#EXTINF:-1  group-title="Thể thao quốc tế,TH: True Premiere Football 1
+#EXTINF:-1  group-title="Thể thao quốc tế",TH: True Premiere Football 1
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162591.ts
-#EXTINF:-1  group-title="Thể thao quốc tế,TH: True Premiere Football 2
-#EXTINF:-1 group-title="Thể thao quốc tế,HK: Now Sports 1
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3G3BGwDutTVky3JUPdiUrTZtz9o6E3RBMA&s", Hub Premier 1
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=77250&extension=ts
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=77251&extension=ts
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/HUB_Premier_3.png/revision/latest/scale-to-width-down/250?cb=20240218063702&path-prefix=vi", Hub Premier 3
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=77252&extension=ts
+#EXTINF:-1 tvg-id="nowsports1.hk" tvg-name="HK: Now Sports 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",HK: Now Sports 1 FHD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304099.ts
-#EXTINF:-1 group-title="Thể thao quốc tế,HK: Now Sports 2
+#EXTINF:-1 tvg-id="beinnowsports2.hk" tvg-name="HK: Now Sports 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",HK: Now Sports 2 FHD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304098.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1
 
