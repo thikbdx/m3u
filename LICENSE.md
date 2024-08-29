@@ -5,7 +5,7 @@
 
 #EXTINF:0 tvg-ihttps://wintv.fun/360/2/index.m3u8d="vv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
-https://api.wintv.me/360/2/index.m3u8
+http://thvip.site/360/2/index.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/59.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD 50fps
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
@@ -20,7 +20,7 @@ http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD 50fps
 #EXTVLCOPT:http-user-agent=VMT
-https://api.wintv.me/360/3/index.m3u8
+http://thvip.site/360/3/index.m3u8
 #http://171.238.180.25:18080/192.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD 50fps
@@ -34,7 +34,7 @@ http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 #EXTVLCOPT:http-user-agent=VMT
 #http://171.238.181.52:18080/155_2.m3u8?AdaptiveType=HLS
-https://api.wintv.me/360/4/index.m3u8
+http://thvip.site/360/4/index.m3u8
 
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -44,32 +44,32 @@ http://118.107.85.4:1935/live/smil:VTV4.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #http://hoatv001.ddns.net:9981/stream/mux/fee111be9c41f1aa9bc882fd68637760?
-https://api.wintv.me/360/108/index.m3u8
+http://thvip.site/360/108/index.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50fps
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 #https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8?
-
+http://p1.cvtv.xyz/vtv5?token=live
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
-https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+#https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50pcr
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/157/index.m3u8
+http://thvip.site/360/157/index.m3u8
 #http://hoatv001.ddns.net:9981/stream/mux/72fc5486191751835efe1f3daf617803?
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/8.png" , VTV Cần Thơ 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://api.wintv.me/360/98/index.m3u8
+http://thvip.site/360/98/index.m3u8
 #https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8?
 #http://hoatv001.ddns.net:9981/stream/mux/37d2f33f7acf06837849535d9c3669e4?
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #http://hoatv001.ddns.net:9981/stream/mux/c97d62bb73974ff27581d55ce9067e0a?
-https://api.wintv.me/360/6/index.m3u8
+http://thvip.site/360/6/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -79,7 +79,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/115/index.m3u8
+http://thvip.site/360/115/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -88,7 +88,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8?
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/8/index.m3u8
+http://thvip.site/360/8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -98,10 +98,10 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8?
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #http://hoatv001.ddns.net:9981/stream/mux/0c2974874fe9359c64e6a575267375c3?
-https://api.wintv.me/360/157/index.m3u8
+http://thvip.site/360/157/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-https://api.wintv.me/360/157/index.m3u8
+http://thvip.site/360/157/index.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/43.m3u8
 #--------------------------------------------------------
 #EXTINF:-1 tvg-id="spotv1" group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
@@ -200,24 +200,24 @@ http://p1.cvtv.xyz/es2?token=live
 #---------------------------------------------------------
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/195/index.m3u8
+http://thvip.site/360/195/index.m3u8
 
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://api.wintv.me/360/2554/index.m3u8
+http://thvip.site/360/2554/index.m3u8
 
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #http://pcrtv.ddns.net:9981/stream/channelid/1471429487?ticket=6735231C26E97ED4D03C908BDFA22B8590E5DE42&profile=pass
-https://api.wintv.me/360/1/index.m3u8
+http://thvip.site/360/1/index.m3u8
 
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://api.wintv.me/360/148/index.m3u8
+http://thvip.site/360/148/index.m3u8
 
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://api.wintv.me/360/2458/index.m3u8
+http://thvip.site/360/2458/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://khanggtivi.xyz/khanggtivi/khanggtivi/kubolive/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LiveTV", KuboLive 2
@@ -227,8 +227,8 @@ https://khanggtivi.xyz/khanggtivi/khanggtivi/kubolive2/index.m3u8
 #---------------------------------------------
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://m3u.at/Onsport-plus
-#https://api.wintv.me/vtvcab6/index.m3u8
+
+#http://thvip.site/vtvcab6/index.m3u8
 #https://tth.vn/onsportplus
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -236,7 +236,7 @@ http://m3u.at/Onsport-plus
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports pcr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://m3u.at/ONSPORT
+
 #https://api.wintv.me/vtvcab3/index.m3u8
 #http://pcrtv.ddns.net:9981/stream/channelid/934929518?ticket=01C48B736FD536F480AD13F4F2814733B95654F9&profile=pass
 #http://14.167.74.50:4000/rtp/232.84.3.242:11374
@@ -246,7 +246,7 @@ http://113.160.152.31:5050/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://api.wintv.me/vtvcab3/index.m3u8
-#http://113.175.71.10:4022/rtp/232.84.3.242:11374
+https://tth.vn/ONSPORTHD
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
@@ -254,7 +254,7 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://m3u.at/ONSPORT-NEWS
+https://tth.vn/ONSPORT-NEWS
 #https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -268,7 +268,8 @@ https://cdn1.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
-https://hqth.me/htvttkb
+#https://hqth.me/htvttkb
+https://thvip.site/htvtt/index.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
@@ -361,7 +362,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-id="vtvcab1hd" group-logo="https://phuhdtv.github.io/thumbs/Groups/VCTV.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/180/index.m3u8
+https://thvip.site/360/180/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/zn7tNfS/phim-Viet-BEARTV.png",ON PHIM VIỆT
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -369,10 +370,10 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zn7tNfS/phim-Viet-BEARTV.png",ON PHIM VIỆT
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/175/index.m3u8
+https://thvip.site/360/175/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://api.wintv.me/vtvcab3/index.m3u8
+https://thvip.site/vtvcab3/index.m3u8
 #https://tth.vn/onsport
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/tzTXSLs/ONMovies-BEARTV.png" ,ON MOVIES
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -381,7 +382,7 @@ https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab4/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/tzTXSLs/ONMovies-BEARTV.png" ,ON MOVIES
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/181/index.m3u8
+https://thvip.site/360/181/index.m3u8
 #EXTINF:-1 tvg-id="vvtvcab5hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/tmCTzWk/ecn1-BEARTV.png",ON E CHANNEL
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -389,10 +390,11 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8
 #EXTINF:-1 tvg-id="vvtvcab5hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/tmCTzWk/ecn1-BEARTV.png",ON E CHANNEL
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/184/index.m3u8
+https://thvip.site/360/184/index.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://api.wintv.me/vtvcab6/index.m3u8
+https://thvip.site/vtvcab6/index.m3u8
 #https://tth.vn/onsportplus
 #EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://i.ibb.co/ZT7w970/ONO2-BEARTV.png" ,ON O2TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -408,7 +410,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/t4PV17Q/ONBibi-BEARTV.png",ON BIBI
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/178/index.m3u8
+https://thvip.site/360/178/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/1X6NMjT/info-BEARTV.png" , ON INFO TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -417,7 +419,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/1X6NMjT/info-BEARTV.png" , ON INFO TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/189/index.m3u8
+https://thvip.site/360/189/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/v4X3VqN/cab10-filmtv-BEARTV.png",ON CINE
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -425,7 +427,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/v4X3VqN/cab10-filmtv-BEARTV.png",ON CINE
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/176/index.m3u8
+https://thvip.site360/176/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/Qjckpv4/styletv-BEARTV.png" ,ON STYLE TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -433,7 +435,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/Qjckpv4/styletv-BEARTV.png" ,ON STYLE TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/184/index.m3u8
+https://thvip.site/360/184/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/L8RBHbv/ONMusic-BEARTV.png" ,ON MUSIC
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -441,7 +443,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/L8RBHbv/ONMusic-BEARTV.png" ,ON MUSIC
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/185/index.m3u
+https://thvip.site/360/185/index.m3u
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://tth.vn/onfootball
@@ -454,12 +456,11 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/Nx646LH/ontreding-BEARTV.png" ,ON TRENDING TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/186/index.m3u8
+https://thvip.site/360/186/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#https://api.wintv.me/vtvcab18/index.m3u8
-http://m3u.at/ONSPORT-NEWS
-
+https://thvip.site/vtvcab18/index.m3u8
+https://tth.vn/ONSPORT-NEWS
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/T84Wq4j/VTVCAB10-BEARTV.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -469,7 +470,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/177/index.m3u8
+https://thvip.site/360/177/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://171.227.65.31:8889/rtp/239.12.252.49:5000
@@ -482,22 +483,22 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/r5ywFHj/vfamily-BEARTV.png",ON V FAMILY
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/187/index.m3u8
+https://thvip.site/360/187/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/3XEFbua.png",ON Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/179/index.m3u8
+https://thvip.site/360/179/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/188/index.m3u8
+https://thvip.site/360/188/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/169/index.m3u8
+https://thvip.site/360/169/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5 — ON Sports Action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/360/2380/index.m3u8
+https://thvip.site/360/2380/index.m3u8
 #---------------------------------------
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -593,10 +594,10 @@ http://thvip.site/vtc5/index.m3u8
 #https://api.wintv.me/vtc5/index.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://api.wintv.me/360/200/index.m3u8
+https://thvip.site/360/200/index.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD - TodayTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://api.wintv.me/vtc7/index.m3u8
+http://thvip.site/vtc7/index.m3u8
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc8/${start}/${offset}", VTC8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://thvip.site/vtc8/index.m3u8
@@ -607,10 +608,10 @@ http://thvip.site/vtc9/index.m3u8
 #https://api.wintv.me/vtc9/index.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://api.wintv.me/360/204/index.m3u8
+http://thvip.site/360/204/index.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://api.wintv.me/360/205/index.m3u8
+http://thvip.site/360/205/index.m3u8
 #https://api.wintv.me/vtc11/index.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" catchup-type="default" catchup-days="2" catchup-source="vieon/vtc13-hd/xemlai/${start}-${offset}", VTC13 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -634,11 +635,7 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
 #http://hoatv001.ddns.net:9981/stream/mux/17a2c595c0e78091ba9aac7dbd8934f1?
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD
 https://hqth.me/hbokb
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO (Dự Phòng)
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
-#http://103.183.118.124:1234/stream/hbo/stream.m3u8
-#http://s4.nihontv.net:21585/hbo/index.m3u8
+
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD Asia
 http://41.205.93.154/HBO/tracks-v1a1/mono.m3u8
 
