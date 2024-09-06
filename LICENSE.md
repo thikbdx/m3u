@@ -105,6 +105,17 @@ http://thvip.site/360/157/index.m3u8
 https://thvip.site/360/207/index.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/43.m3u8
 #--------------------------------------------------------
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/logo.jpg",CVmedia Live
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/fpt?token=live
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football
+http://p1.cvtv.xyz/tpf?token=live
+#EXTINF:-1 tvg-id="" group-title="LiveTV", KuboLive 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://khanggtivi.xyz/khanggtivi/khanggtivi/kubolive/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LiveTV", KuboLive 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://khanggtivi.xyz/khanggtivi/khanggtivi/kubolive2/index.m3u8
 #EXTINF:-1 tvg-id="spotv1" group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/165105.ts
@@ -170,13 +181,15 @@ http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/291178
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="AF: SuperSport Premier League HD" tvg-logo="http://kb007.xyz/picons/premp.png" group-title="Thể thao quốc tế",SuperSport Premier League HD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/11642.ts
 
-EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế", Digi Sport 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế", Digi Sport 1 FHD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71457.ts
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế", Digi Sport 2 FHD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71459.ts
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vspuhd.png",V Sport Ultra HD
+http://p1.cvtv.xyz/uhd?token=live
 #EXTINF:-1,NO: V Sport +
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298452.ts
-#EXTINF:-1  group-title="Thể thao quốc tế",NO: V Sport 1
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vspuhd.png",V Sport 
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/264451
 #EXTINF:-1  group-title="Thể thao quốc tế",TH: True Premiere Football 1
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162591.ts
@@ -219,13 +232,6 @@ http://thvip.site/360/148/index.m3u8
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://thvip.site/360/2458/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LiveTV", KuboLive 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://khanggtivi.xyz/khanggtivi/khanggtivi/kubolive/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LiveTV", KuboLive 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://khanggtivi.xyz/khanggtivi/khanggtivi/kubolive2/index.m3u8
-
 #---------------------------------------------
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
