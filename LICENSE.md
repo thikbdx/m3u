@@ -124,10 +124,11 @@ http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298506.ts
 #http://154.6.191.61:8070/live/e9cd5f24/079fd2c9/298571.ts
 #EXTINF:-1 group-title=" Thể thao quốc tế" tvg-logo="https://www.delta.nl/media/1657/ziggo-sport-voetbal-delta.png?anchor=center&mode=crop&width=300&rnd=132603728886170000",Ziggo Sport Voetbal
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442051&extension=ts&play_token=ok4kbOxSXU
+#http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442051&extension=ts&play_token=ok4kbOxSXU
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport tennis
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442053&extension=ts&play_token=75becWJi0T
+#http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442053&extension=ts&play_token=75becWJi0T
+
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
 http://p1.cvtv.xyz/E1?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
@@ -135,9 +136,10 @@ http://p1.cvtv.xyz/E2?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:31:66:65&stream=1608071&extension=ts&play_token=dxlAjvi3DS
+#http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:31:66:65&stream=1608071&extension=ts&play_token=dxlAjvi3DS
+http://p1.cvtv.xyz/pl?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/2881.ts
@@ -180,9 +182,9 @@ http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/291178
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="AF: SuperSport Premier League HD" tvg-logo="http://kb007.xyz/picons/premp.png" group-title="Thể thao quốc tế",SuperSport Premier League HD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/11642.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế", Digi Sport 1 FHD
+#EXTINF:-1 tvg-id=" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế", Digi Sport 1 FHD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71457.ts
-#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế", Digi Sport 2 FHD
+#EXTINF:-1 tvg-id=" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế", Digi Sport 2 FHD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71459.ts
 #EXTINF:-1 group-title="4K UHD" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vspuhd.png",V Sport Ultra HD
 http://p1.cvtv.xyz/uhd?token=live
@@ -193,15 +195,22 @@ http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/264451
 #EXTINF:-1  group-title="Thể thao quốc tế",TH: True Premiere Football 1
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162591.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3G3BGwDutTVky3JUPdiUrTZtz9o6E3RBMA&s", Hub Premier 1
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=77250&extension=ts
+http://ky-iptv.com:80/live/Ivica5274/juric4005/2688447.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=77251&extension=ts
+#http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=77251&extension=ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/HUB_Premier_3.png/revision/latest/scale-to-width-down/250?cb=20240218063702&path-prefix=vi", Hub Premier 3
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=77252&extension=ts
+#http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=77252&extension=ts
+#EXTINF:-1 group-title=" Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/DAZN_1_Logo.svg", Dazn 1
+http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/28078
+#EXTINF:-1,DE024:DAZN 1
+http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2659
+#EXTINF:-1,DE025:DAZN 2
+http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2658
+
 #EXTINF:-1 tvg-id="nowsports1.hk" tvg-name="HK: Now Sports 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",HK: Now Sports 1 FHD
-#http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304099.ts
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304099.ts
 #EXTINF:-1 tvg-id="beinnowsports2.hk" tvg-name="HK: Now Sports 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",HK: Now Sports 2 FHD
-#http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304098.ts
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304098.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1
 
 #http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=143&extension=ts&play_token=exu9fIzDRE
@@ -217,20 +226,30 @@ http://thvip.site/360/195/index.m3u8
 
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://thvip.site/360/2554/index.m3u8
-
+#http://thvip.site/360/2554/index.m3u8
+http://171.226.225.198:8889/rtp/239.12.251.72:5000
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #http://pcrtv.ddns.net:9981/stream/channelid/1471429487?ticket=6735231C26E97ED4D03C908BDFA22B8590E5DE42&profile=pass
-http://thvip.site/360/1/index.m3u8
-
+#http://thvip.site/360/1/index.m3u8
+http://171.226.225.198:8889/rtp/239.12.252.59:5000
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://thvip.site/360/148/index.m3u8
-
+#http://thvip.site/360/148/index.m3u8
+https://tth.vn/TV360⁺³
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://thvip.site/360/2458/index.m3u8
+https://tth.vn/TV360⁺⁴
+#http://thvip.site/360/2458/index.m3u8
+#EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/19/17/1726740960539/cb834040831f_640_360.png", TV360+5
+#EXTVLCOPT:http-user-agent=VMT
+https://thvip.site/360/9867/index.m3u8
+#EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/19/17/1726740923372/3668f8c5f024_640_360.png", TV360+6
+https://thvip.site/360/9868/index.m3u8
+#EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/20/06/1726788697117/30d4679fe59d_640_360.png", TV360+7
+https://thvip.site/360/9869/index.m3u8
+#EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/20/00/172676698597/300138c2bbe3_640_360.png", TV360+8
+https://thvip.site/360/9870/index.m3u8
 #---------------------------------------------
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -240,7 +259,7 @@ https://tth.vn/ONSPORT-HD
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #http://171.227.65.31:8889/rtp/239.12.251.189:5000
-
+http://171.226.225.198:8889/udp/239.12.251.189:5000
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports pcr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #http://pcrtv.ddns.net:9981/stream/channelid/934929518?ticket=01C48B736FD536F480AD13F4F2814733B95654F9&profile=pass
@@ -265,18 +284,20 @@ https://tth.vn/ONSPORT-NEWS
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://cdn1.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
-
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
-https://hqth.me/htvttkb
-https://thvip.site/htvtt/index.m3u8
+
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
+https://hqth.me/htvttkb
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
+https://thvip.site/htvtt/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
