@@ -140,12 +140,14 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:31:66:65&stream=1608071&extension=ts&play_token=dxlAjvi3DS
 http://p1.cvtv.xyz/pl?token=live
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/IMG_20200801_085604.jpg/revision/latest?cb=20200801005853", One Sport Plus
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/66827.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/2881.ts
+#http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/2881.ts
 #EXTINF:-1 group-title="Thể thao quốc tế", Super Sport 1
 http://ky-iptv.com:80/live/Ivica5274/juric4005/1400565.ts
-#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY: Astro Arena FHD" tvg-logo="" group-title="Thể thao quốc tế",MY: Astro FHD
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="MY: Astro Supersport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",MY: Astro Supersport 1 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/146068.ts
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Supersport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",MY: Astro Supersport 2 FHD
@@ -181,10 +183,10 @@ http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/7448
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/291178
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="AF: SuperSport Premier League HD" tvg-logo="http://kb007.xyz/picons/premp.png" group-title="Thể thao quốc tế",SuperSport Premier League HD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/11642.ts
-
-#EXTINF:-1 tvg-id=" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế", Digi Sport 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 1 FHD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71457.ts
-#EXTINF:-1 tvg-id=" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế", Digi Sport 2 FHD
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 2 FHD
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/71459.ts
 #EXTINF:-1 group-title="4K UHD" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vspuhd.png",V Sport Ultra HD
 http://p1.cvtv.xyz/uhd?token=live
@@ -201,10 +203,9 @@ http://ky-iptv.com:80/live/Ivica5274/juric4005/2688447.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/HUB_Premier_3.png/revision/latest/scale-to-width-down/250?cb=20240218063702&path-prefix=vi", Hub Premier 3
 #http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=77252&extension=ts
 #EXTINF:-1 group-title=" Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/DAZN_1_Logo.svg", Dazn 1
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/28078
-#EXTINF:-1,DE024:DAZN 1
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",IT: DAZN 1 FHD
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2659
-#EXTINF:-1,DE025:DAZN 2
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 2 FHD" tvg-logo="" group-title="VIP | Sports Italia",IT: DAZN 2 FHD
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2658
 
 #EXTINF:-1 tvg-id="nowsports1.hk" tvg-name="HK: Now Sports 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",HK: Now Sports 1 FHD
