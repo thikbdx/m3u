@@ -186,6 +186,12 @@ http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2659
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",IT: DAZN 2 FHD
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2658
 
+#EXTINF:-1 group-title="Thể thao quốc tế",BN022:Bein Sports Premium 1
+http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2120
+#EXTINF:-1 group-title="Thể thao quốc tế",BN023:Bein Sports Premium 2
+http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2119
+#EXTINF:-1 group-title="Thể thao quốc tế",BN025:Bein Sports Premium 3
+http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2117
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 1 FHD
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.52.123:8889/ultratv.php?id=15470
