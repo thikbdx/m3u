@@ -123,10 +123,11 @@ https://thvip.site/360/207/index.m3u8
 #http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442053&extension=ts&play_token=75becWJi0T
 
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
-http://p1.cvtv.xyz/E1?token=live
-
+#http://p1.cvtv.xyz/E1?token=live
+http://extraott.com:80/live/7175313183/6473142259/28052.m3u8
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
-http://p1.cvtv.xyz/E2?token=live
+http://extraott.com:80/live/7175313183/6473142259/28051.m3u8
+#http://p1.cvtv.xyz/E2?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -160,11 +161,11 @@ http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/1720
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/1719
 
 #EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="FR:* Canal+ Sport FHD" tvg-logo="http://kb007.xyz/picons/canalplussport.png" group-title="Thể thao quốc tế", Canal+ Sport FHD
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2775
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/2775.m3u8
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
 http://p1.cvtv.xyz/cp1?token=live
 #EXTINF:-1  group-title="Thể thao quốc tế",CANAL+ SPORT 5 FHD
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/28075
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/28075.m3u8
 
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png",NBC
 http://p1.cvtv.xyz/nbc?token=live
@@ -196,10 +197,11 @@ http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2119
 #EXTINF:-1 tvg-id="beIN_SPORTS3_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="NGOẠI HẠNG ANH",Premium 3 FHD 
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2117
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 1 FHD
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/31333
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/31333.m3u8
 #http://14.162.52.123:8889/ultratv.php?id=15470
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 2 FHD
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/31332
+
 #http://14.162.52.123:8889/ultratv.php?id=15471
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digi_sport3_hu.png/1200px-Digi_sport3_hu.png", Digi Sport 3
 http://extraott.com:900/live/7175313183/6473142259/170027.ts
@@ -213,6 +215,7 @@ http://ky-iptv.com:80/live/Ivica5274/juric4005/2688447.ts
 #EXTINF:-1 tvg-id="" tvg-name="EPL 4K: Now Sports 4K" tvg-logo="http://kb007.xyz/picons/premierleague.png" group-title="Thể thao quốc tế",HK 4K: Now Sports 4K
 http://ky-iptv.com:80/Ivica5274/juric4005/2772992.ts
 #http://14.162.52.123:8889/ultratv.php?id=339878
+
 #EXTINF:-1 tvg-id="nowsports1.hk" tvg-name="HK: Now Sports 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",HK: Now Sports 1 FHD
 http://extraott.com:80/live/7175313183/6473142259/400230451.m3u8
 #http://14.162.52.123:8889/ultratv.php?id=246323
