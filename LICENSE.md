@@ -1,7 +1,7 @@
 
 #EXTM3U url-tvg="http://hqth.me/epg" tvg-shift=0 m3uautoload=1"
 #EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml"
-
+#EXTM3U url-tvg="https://gg.gg/coocaaE" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 #EXTINF:0 tvg-ihttps://wintv.fun/360/2/index.m3u8d="vv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
@@ -123,11 +123,11 @@ https://thvip.site/360/207/index.m3u8
 #http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442053&extension=ts&play_token=75becWJi0T
 
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
-#http://p1.cvtv.xyz/E1?token=live
-http://extraott.com:80/live/7175313183/6473142259/28052.m3u8
+http://p1.cvtv.xyz/E1?token=live
+#http://extraott.com:80/live/7175313183/6473142259/28052.m3u8
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
-http://extraott.com:80/live/7175313183/6473142259/28051.m3u8
-#http://p1.cvtv.xyz/E2?token=live
+#http://extraott.com:80/live/7175313183/6473142259/28051.m3u8
+http://p1.cvtv.xyz/E2?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -180,9 +180,12 @@ http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/59264
 
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="AF: SuperSport Premier League HD" tvg-logo="http://kb007.xyz/picons/premp.png" group-title="NGOẠI HẠNG ANH",SuperSport Premier League HD
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/60799
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="TNGOẠI HẠNG ANH ",SuperSport Football HD
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="NGOẠI HẠNG ANH ",SuperSport Football HD
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/60794
-
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="NGOẠI HẠNG ANH ",SuperSport Football HD DP
+http://14.162.56.187:8889/ultratv.php?id=294767
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="NGOẠI HẠNG ANH ",SuperSport Football HD DP
+http://14.162.56.187:8889/ultratv.php?id=294761
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1000px-DAZN_1_Logo.svg.png",DAZN 1
 http://p1.cvtv.xyz/DZ1?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1000px-DAZN_1_Logo.svg.png",DAZN 1
@@ -198,10 +201,12 @@ http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2119
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2117
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 1 FHD
 http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/31333.m3u8
-#http://14.162.52.123:8889/ultratv.php?id=15470
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 1 FHD DP
+http://14.162.56.187:8889/ultratv.php?id=123619
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 2 FHD
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/31332
-
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 2 FHD DP
+http://14.162.56.187:8889/ultratv.php?id=123618
 #http://14.162.52.123:8889/ultratv.php?id=15471
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digi_sport3_hu.png/1200px-Digi_sport3_hu.png", Digi Sport 3
 http://extraott.com:900/live/7175313183/6473142259/170027.ts
@@ -209,13 +214,13 @@ http://extraott.com:900/live/7175313183/6473142259/170027.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3G3BGwDutTVky3JUPdiUrTZtz9o6E3RBMA&s", Hub Premier 1
 http://ky-iptv.com:80/live/Ivica5274/juric4005/2688447.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2
-#http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=77251&extension=ts
+http://14.162.56.187:8889/ultratv.php?id=351594
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/HUB_Premier_3.png/revision/latest/scale-to-width-down/250?cb=20240218063702&path-prefix=vi", Hub Premier 3
-#http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=77252&extension=ts
+http://14.162.56.187:8889/ultratv.php?id=351592
 #EXTINF:-1 tvg-id="" tvg-name="EPL 4K: Now Sports 4K" tvg-logo="http://kb007.xyz/picons/premierleague.png" group-title="Thể thao quốc tế",HK 4K: Now Sports 4K
-http://ky-iptv.com:80/Ivica5274/juric4005/2772992.ts
+#http://ky-iptv.com:80/Ivica5274/juric4005/2772992.ts
 #http://14.162.52.123:8889/ultratv.php?id=339878
-
+http://14.162.56.187:8889/ultratv.php?id=200230
 #EXTINF:-1 tvg-id="nowsports1.hk" tvg-name="HK: Now Sports 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",HK: Now Sports 1 FHD
 http://extraott.com:80/live/7175313183/6473142259/400230451.m3u8
 #http://14.162.52.123:8889/ultratv.php?id=246323
