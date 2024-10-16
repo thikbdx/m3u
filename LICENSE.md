@@ -124,11 +124,11 @@ https://thvip.site/360/207/index.m3u8
 #http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442053&extension=ts&play_token=75becWJi0T
 
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
-http://p1.cvtv.xyz/E1?token=live
-#http://extraott.com:80/live/7175313183/6473142259/28052.m3u8
+#http://p1.cvtv.xyz/E1?token=live
+http://extraott.com:80/live/7175313183/6473142259/28049.m3u8
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
-#http://extraott.com:80/live/7175313183/6473142259/28051.m3u8
-http://p1.cvtv.xyz/E2?token=live
+http://extraott.com:80/live/7175313183/6473142259/28048.m3u8
+#http://p1.cvtv.xyz/E2?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -180,13 +180,16 @@ http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/59264
 
 
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="AF: SuperSport Premier League HD" tvg-logo="http://kb007.xyz/picons/premp.png" group-title="NGOẠI HẠNG ANH",SuperSport Premier League HD
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/60799
+http://extraott.com:80/live/7175313183/6473142259/190004.m3u8
+#http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/60799
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="NGOẠI HẠNG ANH ",SuperSport Football HD
+http://extraott.com:80/live/7175313183/6473142259/190004.m3u8
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/60794
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="NGOẠI HẠNG ANH ",SuperSport PremierLeague DP
 http://14.162.56.187:8889/ultratv.php?id=294767
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="NGOẠI HẠNG ANH ",SuperSport Football HD DP
-http://14.162.56.187:8889/ultratv.php?id=294761
+http://extraott.com:80/live/7175313183/6473142259/190006.m3u8
+#http://14.162.56.187:8889/ultratv.php?id=294761
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1000px-DAZN_1_Logo.svg.png",DAZN 1
 http://p1.cvtv.xyz/DZ1?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1000px-DAZN_1_Logo.svg.png",DAZN 1
@@ -228,6 +231,12 @@ http://extraott.com:80/live/7175313183/6473142259/400230451.m3u8
 #EXTINF:-1 tvg-id="beinnowsports2.hk" tvg-name="HK: Now Sports 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",HK: Now Sports 2 FHD
 http://extraott.com:80/live/7175313183/6473142259/400230450.m3u8
 #http://14.162.52.123:8889/ultratv.php?id=246324
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.polsatsport.pl/templates/psport2019/build/gfx/tv/polsatsport1.png",Polsat Sport
+http://p1.cvtv.xyz/D1?token=live
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.polsatsport.pl/templates/psport2019/build/gfx/tv/polsatsport2.png",Polsat Sport 2
+http://p1.cvtv.xyz/D2?token=live
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.polsatsport.pl/templates/psport2019/build/gfx/tv/polsatsport3.png",Polsat Sport 3
+http://p1.cvtv.xyz/D3?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1
 #http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=143&extension=ts&play_token=exu9fIzDRE
 http://p1.cvtv.xyz/es1?token=live
@@ -271,12 +280,11 @@ https://thvip.site/360/9870/index.m3u8
 #---------------------------------------------
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#https://tth.vn/ONSPORT-HD
 https://509942876.r.vtvcdn.com/HAY_TV/v2_index.m3u8
 #https://tth.vn/onsportplus
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#http://171.226.225.198:8889/udp/239.12.251.189:5000
+https://tth.vn/onsportplus
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #http://sv.tvmienphi.xyz/m3u8/tvmienphi.m3u8
@@ -317,8 +325,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
-https://hqth.me/htvttkb
+
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
 https://thvip.site/htvtt/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
@@ -707,10 +714,10 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 http://123.27.85.124:9876/rtp/232.84.1.18:8082
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
-#http://hoatv001.ddns.net:9981/stream/mux/96f3fadf436f3e18e70a57f9ae5b98ce?
-
+http://antm.dynu.net:14285/rtp/232.84.1.18:8082
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito
-https://khanggtivi.xyz/vuminhthanh/vmt2024/cartoonito/index.m3u8
+http://xtv.ooo:8080/83212539/43153928/348017
+#https://khanggtivi.xyz/vuminhthanh/vmt2024/cartoonito/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
 http://antm.dynu.net:14285/rtp/232.84.3.222:11254
 #https://khanggtivi.xyz/vuminhthanh/vmt2024/cartoon/index.m3u8
@@ -736,7 +743,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
 
-http://hoatv001.ddns.net:9981/stream/mux/4ae710e2364e12dbd432e41f897b5faa?
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
@@ -780,9 +786,7 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
 http://14.189.156.200:8989/rtp/232.84.3.132:10528
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
-http://14.234.155.6:1024/rtp/232.84.3.219:11236
-#EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
-https://hqth.me/axnkb
+http://antm.dynu.net:14285/rtp/232.84.3.219:11236
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://125hvt.ddns.net:21585/axn/index.m3u8
@@ -801,7 +805,7 @@ http://mykingtv.net:2082/gadget1k85/pass1k85/6990
 #EXTINF:-1 tvg-id="dmax" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 http://mykingtv.net:2082/gadget1k85/pass1k85/9973
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
-hhttp://14.234.155.6:1024/rtp/232.84.3.64:11668
+http://antm.dynu.net:14285/rtp/232.84.3.64:11668
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ABC Australia
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -812,9 +816,9 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://210.210.155.35/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
-http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
+http://125hvt.ddns.net:21585/tlc/index.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
-http://14.189.156.200:8989/rtp/232.84.2.51:10516
+http://antm.dynu.net:14285/rtp/232.84.2.51:10516
 
 #-------------------------------------------------
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1
