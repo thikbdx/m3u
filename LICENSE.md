@@ -183,10 +183,11 @@ http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/59264
 http://extraott.com:80/live/7175313183/6473142259/190004.m3u8
 #http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/60799
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="NGOẠI HẠNG ANH ",SuperSport Football HD
-http://extraott.com:80/live/7175313183/6473142259/190004.m3u8
+#http://extraott.com:80/live/7175313183/6473142259/190004.m3u8
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/60794
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="NGOẠI HẠNG ANH ",SuperSport PremierLeague DP
-http://14.162.56.187:8889/ultratv.php?id=294767
+http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/60575
+#http://14.162.56.187:8889/ultratv.php?id=294767
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="NGOẠI HẠNG ANH ",SuperSport Football HD DP
 http://extraott.com:80/live/7175313183/6473142259/190006.m3u8
 #http://14.162.56.187:8889/ultratv.php?id=294761
@@ -206,11 +207,13 @@ http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2117
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 1 FHD
 http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/31333.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 1 FHD DP
-http://14.162.56.187:8889/ultratv.php?id=123619
+http://extraott.com:900/live/7175313183/6473142259/169969.m3u8
+#http://14.162.56.187:8889/ultratv.php?id=123619
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 2 FHD
 http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/31332
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 2 FHD DP
-http://14.162.56.187:8889/ultratv.php?id=123618
+http://extraott.com:80/live/7175313183/6473142259/169992.m3u8
+#http://14.162.56.187:8889/ultratv.php?id=123618
 #http://14.162.52.123:8889/ultratv.php?id=15471
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digi_sport3_hu.png/1200px-Digi_sport3_hu.png", Digi Sport 3
 http://extraott.com:900/live/7175313183/6473142259/170027.ts
@@ -313,7 +316,6 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8|Referer=http://sctvo
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
-
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -328,7 +330,7 @@ https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn
 https://thvip.site/htvtt/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
+#https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 
 #------------------------------------------------------------------------
 
@@ -500,8 +502,8 @@ https://thvip.site/360/185/index.m3u
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://tth.vn/onfootball
-https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
-
+#https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
+https://azurex88.ddns.net/premium/bpk-tv/vcab/vtvcab16/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/Nx646LH/ontreding-BEARTV.png" ,ON TRENDING TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -551,7 +553,8 @@ https://thvip.site/360/188/index.m3u8
 https://thvip.site/360/169/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5 — ON Sports Action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://thvip.site/360/2380/index.m3u8
+https://tth.vn/BTV5ONACTION
+#https://thvip.site/360/2380/index.m3u8
 #---------------------------------------
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -920,60 +923,46 @@ https://thvip.site/360/220/index.m3u8
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #--------------------------------------------------------------------
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 1
-https://live.fptplay53.net/epzsport/thethao01_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao01_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 2
-https://live.fptplay53.net/epzsport/thethao02_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao02_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 3
-https://live.fptplay53.net/epzsport/thethao03_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao03_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 4
-https://live.fptplay53.net/epzsport/thethao04_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao04_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 5
-https://live.fptplay53.net/epzsport/thethao05_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao05_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 6
-https://live.fptplay53.net/epzsport/thethao06_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao06_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 7
-https://live.fptplay53.net/epzsport/thethao07_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao07_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 8
 https://live.fptplay53.net/epzsport/thethao08_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 9
-https://live.fptplay53.net/epzsport/thethao09_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao09_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 10
-https://live.fptplay53.net/epzsport/thethao10_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao10_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 11
-https://live.fptplay53.net/epzsport/thethao11_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao11_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 12
-https://live.fptplay53.net/epzsport/thethao12_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao12_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 13
 https://live.fptplay53.net/epzsport/thethao13_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 14
-https://live.fptplay53.net/epzsport/thethao14_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao14_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 15
-https://live.fptplay53.net/epzsport/thethao15_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao15_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 16
-https://live.fptplay53.net/epzsport/thethao16_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao16_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 17
-https://live.fptplay53.net/epzsport/thethao17_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao17_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 18
 https://live.fptplay53.net/epzsport/thethao18_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 19
-https://live.fptplay53.net/epzsport/thethao19_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao19_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 20
-https://live.fptplay53.net/epzsport/thethao20_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao20_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 21
-https://live.fptplay53.net/epzsport/thethao21_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao21_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 22
-https://live.fptplay53.net/epzsport/thethao22_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 23
-https://live.fptplay53.net/epzsport/thethao23_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 24
-https://live.fptplay53.net/epzsport/thethao24_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 25
-https://live.fptplay53.net/epzsport/thethao25_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 26
-https://live.fptplay53.net/epzsport/thethao26_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 27
-https://live.fptplay53.net/epzsport/thethao27_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 28
-https://live.fptplay53.net/epzsport/thethao28_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 29
-https://live.fptplay53.net/epzsport/thethao29_vhls.smil/chunklist_b5500000.m3u8
+#https://live.fptplay53.net/epzsport/thethao22_vhls.smil/chunklist_b5500000.m3u8
