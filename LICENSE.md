@@ -261,14 +261,14 @@ http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbOALAsMPY5YT2XEQmNZ8ElU/ts
 #http://171.226.225.198:8889/rtp/239.12.251.72:5000
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://103.171.91.5/play/6RZsvsSwV5SXHaiwkVy5PTbxRWCeGVCOsoWbSsK1g1s/m3u8
+http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbNfs6WR5Dtlyn_x8hCLsf7o/ts
 
 #http://thvip.site/360/1/index.m3u8
 #http://171.226.225.198:8889/rtp/239.12.252.59:5000
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #http://thvip.site/360/148/index.m3u8
-http://103.171.91.5/play/6RZsvsSwV5SXHaiwkVy5Pd-JSnPLSIo0PVVs61hI2C0/m3u8
+http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbAKJUddB5rk31bmauxL4ej4/ts
 #EXTINF:-1 group-title="Trực tiếp 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tth.vn/TV360⁺⁴
@@ -312,8 +312,8 @@ https://tth.vn/onsportnews
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title=" SCTV" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png" ,SCTV15
 #EXTVLCOPT:http-user-agent="dovietsy"
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8|Referer=http://sctvonline.vn/
-
+#https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8|Referer=http://sctvonline.vn/
+https://oipf0znpmnliv.pipitv.top/stream/channelid/603100800?profile=pass
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
