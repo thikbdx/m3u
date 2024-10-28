@@ -35,8 +35,7 @@ http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 #EXTVLCOPT:http-user-agent=VMT
 #http://171.238.181.52:18080/155_2.m3u8?AdaptiveType=HLS
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=4
-#http://thvip.site/360/4/index.m3u8
+http://thvip.site/360/4/index.m3u8
 
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -45,7 +44,6 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=4
 http://118.107.85.4:1935/live/smil:VTV4.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#http://hoatv001.ddns.net:9981/stream/mux/fee111be9c41f1aa9bc882fd68637760?
 http://thvip.site/360/108/index.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD 50fps
@@ -69,7 +67,6 @@ http://thvip.site/360/98/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#http://hoatv001.ddns.net:9981/stream/mux/c97d62bb73974ff27581d55ce9067e0a?
 http://thvip.site/360/6/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -98,7 +95,6 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8?
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-#http://hoatv001.ddns.net:9981/stream/mux/0c2974874fe9359c64e6a575267375c3?
 http://thvip.site/360/157/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
@@ -111,10 +107,11 @@ https://thvip.site/360/207/index.m3u8
 
 #EXTINF:-1 tvg-id="spotv1" group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/165105.ts
+http://extraott.com:80/live/7175313183/6473142259/400200729.m3u8
+
 #EXTINF:-1 tvg-id="spotv2" group-title="Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298506.ts
+http://extraott.com:80/live/7175313183/6473142259/400200728.m3u8
 #http://154.6.191.61:8070/live/e9cd5f24/079fd2c9/298571.ts
 #EXTINF:-1 group-title=" Thể thao quốc tế" tvg-logo="https://www.delta.nl/media/1657/ziggo-sport-voetbal-delta.png?anchor=center&mode=crop&width=300&rnd=132603728886170000",Ziggo Sport Voetbal
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -134,40 +131,46 @@ http://extraott.com:80/live/7175313183/6473142259/28048.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/IMG_20200801_085604.jpg/revision/latest?cb=20200801005853", One Sport Plus
-http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/66827.ts
+#http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/66827.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/2881.ts
+#http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/2881.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:31:66:65&stream=1608071&extension=ts&play_token=dxlAjvi3DS
 http://p1.cvtv.xyz/pl?token=live
-
+#EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",Sky Sport Premier League
+http://p1.cvtv.xyz/pl?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế"" tvg-id="rmc1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png",Astro SuperSport 
 #http://ky-iptv.com:80/live/Ivica5274/juric4005/1400565.ts
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="MY: Astro Supersport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",MY: Astro Supersport 1 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/1722
+http://extraott.com:80/live/7175313183/6473142259/377339.m3u8
+#http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/1722
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Supersport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",MY: Astro Supersport 2 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/1721
+http://extraott.com:80/live/7175313183/6473142259/400252981.m3u8
+#http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/1721
 #http://ky-iptv.com:80/Ivica5274/juric4005/1391036.ts
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="MY: Astro Supersport 3 FHD" tvg-logo="" group-title="Thể thao quốc tế",MY: Astro Supersport 3 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/1720
-#http://ky-iptv.com:80/Ivica5274/juric4005/1391037.ts
+http://extraott.com:80/live/7175313183/6473142259/377340.m3u8
+#http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/1720
+http://ky-iptv.com:80/Ivica5274/juric4005/1391037.ts
 #EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="MY: Astro Supersport 4 FHD" tvg-logo="" group-title="Thể thao quốc tế",MY: Astro Supersport 4 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://ky-iptv.com:80/live/Ivica5274/juric4005/1400564.ts
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/1719
+http://extraott.com:80/live/7175313183/6473142259/400252980.m3u8
+#http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/1719
 
 #EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="FR:* Canal+ Sport FHD" tvg-logo="http://kb007.xyz/picons/canalplussport.png" group-title="Thể thao quốc tế", Canal+ Sport FHD
-http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/2775.m3u8
+http://extraott.com:80/live/7175313183/6473142259/400216431.m3u8
+#http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/2775.m3u8
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
 http://p1.cvtv.xyz/cp1?token=live
 #EXTINF:-1  group-title="Thể thao quốc tế",CANAL+ SPORT 5 FHD
-http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/28075.m3u8
-
+#http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/28075.m3u8
+http://extraott.com:80/live/7175313183/6473142259/400216427.m3u8
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png",NBC
 http://p1.cvtv.xyz/nbc?token=live
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: beIN Sports 1 HD" tvg-logo="http://ipro.tv/picons/beinsports1.png" group-title="Thể thao quốc tế",beIN Sports 1 HD
@@ -176,41 +179,45 @@ http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/59271
 http://extraott.com:80/live/7175313183/6473142259/34.m3u8
 #http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/59269
 #EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="MY: Bein Sports Max HD" tvg-logo="" group-title="Thể thao quốc tế", Bein Sports  
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/59264
+http://extraott.com:80/live/7175313183/6473142259/39322.m3u8
+#http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/59264
 
 
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="AF: SuperSport Premier League HD" tvg-logo="http://kb007.xyz/picons/premp.png" group-title="NGOẠI HẠNG ANH",SuperSport Premier League HD
 http://extraott.com:80/live/7175313183/6473142259/190004.m3u8
 #http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/60799
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="NGOẠI HẠNG ANH ",SuperSport Football HD
-#http://extraott.com:80/live/7175313183/6473142259/190004.m3u8
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/60794
+http://extraott.com:80/live/7175313183/6473142259/190004.m3u8
+#http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/60794
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="NGOẠI HẠNG ANH ",SuperSport PremierLeague DP
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/60575
+http://ky-iptv.com:80/Ivica5274/juric4005/386576.ts
 #http://14.162.56.187:8889/ultratv.php?id=294767
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: SuperSport Football HD" tvg-logo="http://kb007.xyz/picons/footb.png" group-title="NGOẠI HẠNG ANH ",SuperSport Football HD DP
-http://extraott.com:80/live/7175313183/6473142259/190006.m3u8
+http://ky-iptv.com:80/Ivica5274/juric4005/1019733.ts
 #http://14.162.56.187:8889/ultratv.php?id=294761
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1000px-DAZN_1_Logo.svg.png",DAZN 1
 http://p1.cvtv.xyz/DZ1?token=live
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1000px-DAZN_1_Logo.svg.png",DAZN 1
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2659
+http://extraott.com:80/live/7175313183/6473142259/82259.m3u8
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/DAZN2_2021.png/revision/latest?cb=20210308203636", DAZN 2
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2658
+http://extraott.com:80/live/7175313183/6473142259/34003.m3u8
 
-#EXTINF:-1 tvg-id="beIN_SPORTS1_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="NGOẠI HẠNG ANH",Premium 1 FHD
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2120
-#EXTINF:-1 tvg-id="beIN_SPORTS2_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="NGOẠI HẠNG ANH",Premium 2 FHD 
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2119
-#EXTINF:-1 tvg-id="beIN_SPORTS3_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="NGOẠI HẠNG ANH",Premium 3 FHD 
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2117
+#EXTINF:-1 tvg-id="beIN_SPORTS1_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="NGOẠI HẠNG ANH",BEIN Premium 1 FHD
+http://extraott.com:80/live/7175313183/6473142259/48.m3u8
+#http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2120
+#EXTINF:-1 tvg-id="beIN_SPORTS2_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="NGOẠI HẠNG ANH",BEIN Premium 2 FHD 
+http://extraott.com:80/live/7175313183/6473142259/49.m3u8
+#http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2119
+#EXTINF:-1 tvg-id="beIN_SPORTS3_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="NGOẠI HẠNG ANH",BEIN Premium 3 FHD 
+http://extraott.com:80/live/7175313183/6473142259/34.m3u8
+#http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/2117
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 1 FHD
-http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/31333.m3u8
+http://extraott.com:80/live/7175313183/6473142259/160500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 1 FHD DP
 http://extraott.com:900/live/7175313183/6473142259/169969.m3u8
 #http://14.162.56.187:8889/ultratv.php?id=123619
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 2 FHD
-http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/31332
+http://extraott.com:80/live/7175313183/6473142259/160501.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="Thể thao quốc tế",RO: Digi Sport 2 FHD DP
 http://extraott.com:80/live/7175313183/6473142259/169992.m3u8
 #http://14.162.56.187:8889/ultratv.php?id=123618
@@ -221,9 +228,11 @@ http://extraott.com:900/live/7175313183/6473142259/170027.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3G3BGwDutTVky3JUPdiUrTZtz9o6E3RBMA&s", Hub Premier 1
 http://ky-iptv.com:80/live/Ivica5274/juric4005/2688447.ts
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2
-http://14.162.56.187:8889/ultratv.php?id=351594
+http://extraott.com:80/live/7175313183/6473142259/9060.m3u8
+#http://14.162.56.187:8889/ultratv.php?id=351594
 #EXTINF:-1 group-title="Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/HUB_Premier_3.png/revision/latest/scale-to-width-down/250?cb=20240218063702&path-prefix=vi", Hub Premier 3
-http://14.162.56.187:8889/ultratv.php?id=351592
+http://extraott.com:80/live/7175313183/6473142259/9059.m3u8
+#http://14.162.56.187:8889/ultratv.php?id=351592
 #EXTINF:-1 tvg-id="" tvg-name="EPL 4K: Now Sports 4K" tvg-logo="http://kb007.xyz/picons/premierleague.png" group-title="Thể thao quốc tế",HK 4K: Now Sports 4K
 #http://ky-iptv.com:80/Ivica5274/juric4005/2772992.ts
 #http://14.162.52.123:8889/ultratv.php?id=339878
@@ -301,7 +310,7 @@ http://antm.dynu.net:14285/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #http://taixiudianh9999.ddns.net:21585/vtvcab16/index.m3u8
-
+https://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:vmttv/mac=2F-1E-07-AD-E9-59/vtvcab16/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/onsportnews
@@ -309,7 +318,10 @@ https://tth.vn/onsportnews
 #https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+https://tth.vn/onsportnews
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbKJiKMjo5cCycWahXI1Ip64/ts
 #EXTINF:-1 tvg-id="sctv15hd" group-title=" SCTV" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png" ,SCTV15
 #EXTVLCOPT:http-user-agent="dovietsy"
 #https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8|Referer=http://sctvonline.vn/
@@ -329,7 +341,7 @@ https://thvip.site/htvtt/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
-
+https://tth.vn/BTV5ONACTION
 #------------------------------------------------------------------------
 
 
@@ -426,7 +438,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8
 https://thvip.site/360/175/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/vtvcab3/index.m3u8
+https://tth.vn/onsport
 #https://tth.vn/onsport
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/tzTXSLs/ONMovies-BEARTV.png" ,ON MOVIES
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -447,8 +459,8 @@ https://thvip.site/360/184/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/vtvcab6/index.m3u8
-#https://tth.vn/onsportplus
+#https://thvip.site/vtvcab6/index.m3u8
+https://tth.vn/onsportplus
 #EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://i.ibb.co/ZT7w970/ONO2-BEARTV.png" ,ON O2TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
